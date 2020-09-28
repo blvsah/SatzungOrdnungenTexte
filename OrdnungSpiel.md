@@ -1,6 +1,6 @@
 # Spielordnung
 
-**Stand: 05. Mai 2019**
+**Stand: 25. September 2020**
 
 ## A. Allgemeines
 
@@ -20,11 +20,11 @@ Bei allen öffentlichen Veranstaltungen muss in sportgerechter Kleidung gespielt
 
 ### § 4 Spielsaison
 
-Die Spielsaison beginnt in jedem Jahr am 1. September und endet am 30. Juni des Folgejahres. Die Monate Juli und August gelten als Sommerpause.
+Die Punktspielsaison beginnt in jedem Jahr am 1. September und endet am 31. August des Folgejahres. Eine Turniersaison ist nicht definiert. Turniere werden fortlaufend gespielt. Die Sommerferien sind generell wettkampffrei zu halten.
 
 ### § 5 Bälle
 
-Für den Spielbetrieb dürfen nur die vom BLSA zugelassenen Bälle verwendet werden. Einzelheiten sind der Anlage V zu dieser Spielordnung (Ballzulassung) zu entnehmen.
+Für den Spielbetrieb dürfen nur die vom BLSA zugelassenen Bälle verwendet werden. Die Ballzulassungen werden auf der Webseite des Verbandes veröffentlicht.
 
 ### § 6 Altersklassen
 
@@ -77,8 +77,6 @@ p) Senioren O75 nach vollendetem 75. Lebensjahr.
 (4) Eine Spielberechtigung kann nicht rückwirkend erteilt werden. Der früheste Tag ihrer Wirksamkeit ist der Tag der Erteilung, der nicht vor dem Eingang des schriftlichen Antrages auf Erteilung einer Spielberechtigung liegen darf.
 
 (5) Alle Spielberechtigungsangelegenheiten werden innerhalb des BLSA nur zwischen den Vereinen und dem BLSA geregelt. Für die Richtigkeit der Angaben in den Anträgen und die Einzahlung der Ausstellungsgebühren sind die Vereine verantwortlich. Eine aufgrund falscher Angaben ausgesprochene Spielberechtigung ist ungültig und gilt als nicht erteilt.
-
-(6) Bei jedem Wegfall von Voraussetzungen für die Spielberechtigung ist dies vom Verein innerhalb von sieben Tagen der Geschäftsstelle des BLSA zu melden sowie die Spielberechtigungsliste einzureichen. Bei Fristversäumung ist der Verein mit einer Ordnungsgebühr zu belegen.
 
 ### § 8 Spielberechtigung
 
@@ -182,7 +180,7 @@ Dem Spielausschuss obliegt gemäß § 29 a) der Satzung des BLSA die Ahndung von
 
 (3) Ausschreibungen zu den Einzelmeisterschaften werden vom Spiel- beziehungsweise Jugendausschuss herausgegeben. Sie sind den Vereinen spätestens acht Wochen vor dem Austragungstermin bekannt zu geben.
 
-(4) Die Meldung erfolgt an den Sport-, Jugend- beziehungsweise Altersklassenwart.
+(4) Die Meldung erfolgt über turnier.de. Meldeberechtigt sind die Vereine mit ihrem zugewiesenen Account.
 
 ### § 17 Teilnahmeberechtigung
 
@@ -250,9 +248,9 @@ r) Genehmigungsvermerk.
 
 ### § 21 Meldung
 
-(1) Meldungen erfolgen über die Homepage des BLSA. Bis zur Einrichtung dieser Möglichkeit sind die Meldungen auf dem Meldebogen ausschließlich per Email für die LEM O19, U22 und O40 an den sportwart@blsa.de und für Schüler und Jugend LEM an den jugendwart@blsa.de vorzunehmen.
+(1) Die Meldung erfolgt über turnier.de. Meldeberechtigt sind die Vereine mit ihrem zugewiesenen Account. Bei privaten Turnieren entscheidet der Ausrichter über den Meldevorgang.
 
-(2) Die Meldungen haben am Dienstag vor dem Wettkampfwochenende bis 22.00 Uhr zu erfolgen. Der Sportwart oder der Jugendwart sendet die erfolgten Meldungen umgehend elektronisch an den Ausrichter zur Kenntnis.
+(2) Die Meldungen haben am Samstag vor dem Wettkampfwochenende bis 20:00 Uhr zu erfolgen. Abmeldungen sind bis Dienstag 20:00 Uhr kostenfrei möglich. Der Meldestand ist anschließend auf turnier.de einsehbar.
 
 (3) Der Ausrichter ist berechtigt, eine Meldegebühr je Teilnehmer zu erheben. Jeder gemeldete Teilnehmer ist verpflichtet diese Gebühr zu entrichten, unabhängig davon, ob er zum Einsatz kommt. Ein Anspruch auf Rückerstattung besteht nicht. Vereine haften für ihre Spieler.
 
@@ -328,6 +326,8 @@ b) bei Verletzung zum Satzgewinn des Gegners aufgefüllt. Ein dadurch eventuell 
 (3) Neue Vereine beziehungsweise Mannschaften sind der untersten Spielklasse zuzuordnen, wenn das Präsidium des BLSA keine andere Entscheidung trifft.
 
 (4) Bei Ausgliederung von (Badminton-) Abteilungen aus ihren ursprünglichen Vereinen zur Bildung eines eigenständigen Vereins bleiben die erworbenen Rechte und Pflichten der Mannschaften im Spielbetrieb erhalten, sofern eine vertragliche Regelung mit dem Ursprungsverein erzielt wird, in der dieser auf dieselben Rechte verzichtet. Eine Kopie dieser Vereinbarung ist dem Sportwart zuzuleiten.
+
+(5) Die Teilnahme ist bis zum 01.05. eines jeden Jahres für die folgende Saison zu erklären.
 
 ### § 31 Schiedsrichter
 
@@ -419,7 +419,7 @@ Die Halle muss für die Gastmannschaft mindestens 45 Minuten vor der offiziellen
 
 (1) Von jedem Spiel ist vom Wettkampfleiter ein Spielbericht anzufertigen. Besondere Vorkommnisse sind zu vermerken. Der Spielbericht ist von beiden Mannschaftsleitern zu bestätigen. Je eine Kopie erhalten die beteiligten Mannschaften. Das Original ist vom Heimverein (in neutraler Halle der erstgenannte Verein) spätestens am nächsten Werktag nach dem Spiel (Poststempel) dem Staffelleiter zuzusenden.
 
-(2) Der Heimverein ist verpflichtet, das Spielergebnis unmittelbar nach Spielende dem Staffelleiter und dem Pressewart telefonisch, per Fax oder E-Mail zuzuleiten.
+(2) Der Heimverein (erstgenannte Verein) ist verpflichtet, das Detailergebnis am Spieltag bis 22:00 Uhr im Ergebnisdienst (turnier.de) einzugeben.
 
 ### § 41 Wettkampfleiter
 
@@ -429,7 +429,7 @@ Bei den Spielen soll der Heimverein einen vereinsfremden Wettkampfleiter einsetz
 
 ### § 42 Ranglistenmeldung
 
-(1) Bis zum 1. September eines jeden Jahres haben die Vereine dem Sportwart in dreifacher Ausfertigung eine Rangliste einzureichen. Die Meldung muss Namen, Vornamen, Geburtsdatum und die Spielberechtigungsnummer eines jeden Spielers enthalten. Jugendliche und Staatenlose sind zu kennzeichnen; bei Ausländern ist die Nationalität anzugeben.
+(1) Bis zum 1. August eines jeden Jahres haben die Vereine dem Sportwart eine Rangliste einzureichen. Die Meldung muss Namen, Vornamen, Geburtsdatum und die Spielberechtigungsnummer eines jeden Spielers enthalten. Jugendliche und Staatenlose sind zu kennzeichnen; bei Ausländern ist die Nationalität anzugeben.
 
 (2) Nach Ablauf der Frist aus Absatz 1 dürfen für die Hinrunde keine neuen Spieler aufgenommen werden. Bis spätestens sieben Tage vor Beginn der Rückrunde kann die Rangliste neu gemeldet werden.
 
@@ -439,7 +439,7 @@ Bei den Spielen soll der Heimverein einen vereinsfremden Wettkampfleiter einsetz
 
 a) genaue Bezeichnung des Vereins,
 
-b) Name und Anschrift einer Kontaktperson, welche nicht Mannschaftsleiter sein muss, mit Telefonnummer und soweit vorhanden einer Faxnummer sowie einer E-Mail-Adresse.
+b) Name, Telefonnummer und E-Mailadresse einer vom Verein autorisierten Kontaktperson für die Mannschaft
 
 ### § 43 Anzahl der zu meldenden Spieler
 
@@ -463,7 +463,7 @@ Die endgültige Entscheidung über die Einstufung der Spieler in den Ranglisten 
 
 ### § 47 Einsatz von Jugendlichen
 
-Werden Jugendliche in der Rangliste aufgeführt, so müssen sie die Berechtigung haben, in einer Seniorenmannschaft eingesetzt werden zu dürfen (Jugendfreigabe für Seniorenmannschaften). Die Bestätigung des BLSA ist mit der Ranglistenmeldung einzureichen.
+Jugendliche der Altersklassen U19, U17 und U15-2 (älterer U15 Jahrgang) dürfen ohne Einschränkung gemeldet und eingesetzt werden. Jüngere Jugendliche dürfen nicht eingesetzt werden.
 
 ### § 48 Einsatz von Ausländern und Staatenlosen
 

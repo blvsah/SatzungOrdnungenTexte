@@ -1,6 +1,6 @@
 # Satzung
 
-**Stand: 04. Mai 2019**
+**Stand: 25. September 2020**
 
 ## I. Allgemeine Bestimmungen
 
@@ -135,7 +135,7 @@ Der BLSA-Verbandstag, muss so rechtzeitig vor dem nationalen Verbandstag abgehal
 
 Die Einberufung erfolgt schriftlich auf Grund eines Präsidiumsbeschlusses durch den Präsidenten unter Einhaltung einer Einberufungsfrist von 6 Wochen und unter gleichzeitiger Bekanntgabe der Tagesordnung.
 
-Hierunter fallen sowohl Rundschreiben, einfacher oder eingeschriebener Brief als auch telekommunikative Übermittlung im Sinne von § 127 Abs. 2 BGB, also insbesondere Fax oder E-Mail oder Veröffentlichung auf der Homepage. Der E-Mail ist das unterzeichnete Einladungsschreiben als Scan beizufügen. Der Vorstand wählt nach seinem Ermessen eine der vorgenannten Einladungsformen für die jeweilige Einberufung. Das Einladungsschreiben gilt dem jeweiligen Mitglied als zugegangen, wenn das Rundschreiben oder der eingeschriebene bzw. einfache Brief an die letzte dem Verein bekannte Postadresse des jeweiligen Mitglieds bzw. bei telekommunikativer Übermittlung an die dem Verein zuletzt bekannte Faxnummer bzw. E- Mailadresse versandt wurde.
+Hierunter fallen sowohl Rundschreiben, einfacher oder eingeschriebener Brief als auch telekommunikative Übermittlung im Sinne von § 127 Abs. 2 BGB, also insbesondere Fax oder E-Mail. Der E-Mail ist das unterzeichnete Einladungsschreiben als Scan beizufügen. Der Vorstand wählt nach seinem Ermessen eine der vorgenannten Einladungsformen für die jeweilige Einberufung. Das Einladungsschreiben gilt dem jeweiligen Mitglied als zugegangen, wenn das Rundschreiben oder der eingeschriebene bzw. einfache Brief an die letzte dem Verein bekannte Postadresse des jeweiligen Mitglieds bzw. bei telekommunikativer Übermittlung an die dem Verein zuletzt bekannte Faxnummer bzw. E- Mailadresse versandt wurde.
 
 ### § 13 Zusammensetzung
 

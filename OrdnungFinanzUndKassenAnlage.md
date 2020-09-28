@@ -1,6 +1,6 @@
 # Finanz- und Kassenordnung Anlage (Finanzsätze)
 
-**Stand: 04. Mai 2019**
+**Stand: 25. September 2020**
 
 ## I. Erstattungen für das Präsidium
 
@@ -132,7 +132,7 @@ Bei Überschreitung der festgesetzten Einzahlungsfrist der 3. Mahnung erfolgt ei
 
 ## VIII. Abrechnung von offiziellen Wettkämpfen des BLSA
 
-**A.** 70 % des Überschusses verbleiben beim Veranstalter, 30 % des Überschusses sind an den BLSA abzuführen (Abrechnungsformular an Schatzmeister oder Geschäftsstelle).
+**A.** Der BLSA stellt den Ausrichtern eine Gebühr von 25% des Meldegeldes in Rechnung. Das Meldegeld wird aufgrund aller Meldungen errechnet.
 
 **B.** Landespokal
 
@@ -224,21 +224,7 @@ Die Teilnehmergebühren für die Wochenendlehrgänge (incl. 2 Übernachtungen un
 
 Die Honorarzahlungen an Lehrkräfte pro Stunde werden auf der Grundlage der Honorarordnung der Landeszentrale für politische Bildung des Landes Sachsen-Anhalt vereinbart.
 
-## XII. Einsatz von Turnierleitung und Schiedsrichtern im Interesse des BLSA
-
-**A.** Als Turnierleitung sind bei regionalen Maßnahmen maximal 2 Sportfreunde, auf Landesebene (Ranglisten, Landesmeisterschaften) 3 Sportfreunde und bei den Verbandsspielen des BLSA sowie bei überregionalen Maßnahmen maximal 5 Sportfreunde abrechenbar.
-
-|| Euro |
-|---|---:|
-| Der BLSA honoriert den Einsatz von Turnierleitung je Sportfreund und Tag mit | 10,00 |
-
-**B.** Bei Landesranglisten ist 1 Schiedsrichter, bei Landesmeisterschaften sind neben dem Referee 2 weitere Sportfreunde als Schiedsrichter abrechenbar. Der namentliche Einsatz ist vor der Veranstaltung mit dem Schiedsrichterwart abzustimmen. Bei den Verbandsspielen des BLSA sowie bei überregionalen Maßnahmen ist der Bedarf an Schiedsrichtern durch Schiedsrichterwart/Präsidium im Vorfeld festzulegen.
-
-|| Euro |
-|---|---:|
-| Der BLSA honoriert den Einsatz von Schiedsrichtern je Sportfreund und Tag mit | 10,00 |
-
-## XIII. Würdigung der Vereinsarbeit im Nachwuchsleistungssportbereich
+## XII. Würdigung der Vereinsarbeit im Nachwuchsleistungssportbereich
 
 Der BLSA honoriert Vereine für Spitzenleistungen ihrer Spieler im Nachwuchsleistungssportbereich. Die finanzielle Würdigung erfolgt jeweils im Folgejahr.
 
@@ -248,7 +234,7 @@ Der BLSA honoriert Vereine für Spitzenleistungen ihrer Spieler im Nachwuchsleis
 | B. | Teilnahme an Welt- oder Europameisterschaften (je Turnierteilnahme), soweit keine Medaille im gleichen Wettbewerb gewonnen wird | 100,00 |
 | C. | Medaillenrang bei Deutschen Meisterschaften (je Medaille) | 100,00 |
 
-## XIV. Ehrungen
+## XIII. Ehrungen
 
 Die Finanzierung von Ehrungen erfolgt durch den Antragsteller beziehungsweise auf Beschluss des Präsidiums durch den BLSA.
 
