@@ -1,6 +1,6 @@
 # Spielordnung
 
-**Stand: 25. September 2020**
+**Stand: 15. Oktober 2021**
 
 ## A. Allgemeines
 
@@ -80,9 +80,9 @@ p) Senioren O75 nach vollendetem 75. Lebensjahr.
 
 ### § 8 Spielberechtigung
 
-(1) Eine Spielberechtigung ist mit sofortiger Wirkung den Spielern zu erteilen, die
+(1) Eine Spielberechtigung ist auf Antrag eines Vereines mit sofortiger Wirkung für eine Person zu erteilen, die
 
-a) neu in einen Verein eintreten und vorher keinem anderen Badmintonverein oder keiner Badmintonabteilung angehörten,
+a) bisher noch keine Spielberechtigung für einen Verein in Deutschland aktiv war,
 
 b) bei Aufnahme des Vereins in den BLSA namentlich gemeldet werden und noch keine Spielberechtigung hatten,
 
@@ -92,15 +92,15 @@ d) beim Zusammenschluss mehrerer Vereine für einen dieser Vereine spielberechti
 
 e) von anderen, auch ausländischen, Landesverbänden zum BLSA wechseln und vom bisherigen Verband freigegeben wurden.
 
-(2) Ein Spieler kann Mitglied in mehreren Vereinen sein, jedoch die Spielberechtigung nur für einen dieser Vereine besitzen. Ein Wechsel dieser Spielberechtigung gilt als Vereinswechsel im Sinne dieser Spielordnung. Diese Regelung gilt nicht bei einer Spielgemeinschaft innerhalb des BLSA.
+(2) Ein Spieler kann Mitglied in mehreren Vereinen sein, jedoch die Spielberechtigung nur für einen dieser Vereine besitzen.
 
-(3) Die Spielberechtigung erlischt mit dem Austritt aus einem Verein.
+(3) Soll eine Spielberechtigung nicht mehr aktiv sein, hat der Verein die Deaktivierung zu beantragen.
 
-### § 9 Vereinswechsel
+### § 9 Wechsel der Spielberechtigung (Umschreibung)
 
-(1) Wechselt ein Spieler in einen anderen Verein, so ist zur Ausstellung der neuen Spielberechtigung die schriftliche Freigabeerklärung des bisherigen Vereins erforderlich.
+(1) Möchte eine Person seine/ihre Spielberechtigung zu einem anderen Verein wechseln, geschieht dies auf Antrag beim BLSA. Antragsberechtigt ist der Verein (oder Landesverband) zu dem die Spielberechtigung wechseln soll. Der BLSA kümmert sich um die Freigabeerklärung beim Verein bzw. Landesverband bei dem die Spielberechtigung aktuell aktiv ist.
 
-(2) Ein Spieler ist freizugeben, wenn er sich schriftlich abgemeldet und seine Verpflichtungen erfüllt hat. Erfolgt keine Mitteilung über eine Freigabe, ist der Spieler freigegeben, wenn nach Aufforderung der Geschäftsstelle innerhalb von 14 Tagen keine Freigabeerklärung eingeht. Wird die Freigabe verweigert, sind die Gründe innerhalb derselben Frist der Geschäftsstelle mitzuteilen, andernfalls gilt die Freigabe als erklärt.
+(2) Spielerinnen und Spieler sind grundsätzlich freizugeben. Der Übertragung der Spielberechtigung auf einen neuen Verein kann nur unter den Voraussetzungen des Absatz 3 widersprochen werden. Erfolgt keine Mitteilung über eine Freigabe, ist der Spieler freigegeben, wenn nach Aufforderung der Passstelle innerhalb von 10 Tagen keine Freigabeerklärung eingeht. Wird die Freigabe verweigert, sind die Gründe innerhalb derselben Frist der Passstelle mitzuteilen, andernfalls gilt die Freigabe als erklärt.
 
 (3) Die Freigabeverweigerung darf nur darauf gestützt werden, dass
 
@@ -108,7 +108,9 @@ a) Beitragsrückstände oder Verbindlichkeiten aus der Vereinssatzung oder aus V
 
 b) Vereinseigentum nachweislich zurückgefordert, aber noch nicht zurückgegeben wurde oder
 
-c) rechtskräftige Vereinsstrafen vor der Abmeldung verhängt und innerhalb einer Woche seit Verhängung offiziell mitgeteilt worden sind.
+c) rechtskräftige Vereinsstrafen vor dem Antrag auf Spielberechtigungswechsel verhängt und innerhalb einer Woche seit Verhängung offiziell mitgeteilt worden sind.
+
+d) Die Person bei der es bei dem Wechsel geht, versichert nicht wechseln zu wollen.
 
 Sie kann sich auf höchstens zwölf Monate erstrecken. Der Spieler kann innerhalb von sieben Tagen nach Kenntnisnahme gegen die Freigabeverweigerung Einspruch einlegen. Die Freigabeverweigerung erstreckt sich allein auf die Spielberechtigung bei Mannschaftsspielen des neuen Vereins; für Einzelturniere ist der Spieler sofort für den neuen Verein spielberechtigt.
 
@@ -116,9 +118,9 @@ Sie kann sich auf höchstens zwölf Monate erstrecken. Der Spieler kann innerhal
 
 ### § 10 Wartezeit
 
-(1) Jeder Spieler, der den Verein wechselt, unterliegt einer Wartezeit von drei Monaten. Die Wartezeit beginnt mit dem Eingang des vollständigen Antrags auf Ausstellung der Spielberechtigung durch den neuen Verein bei der Geschäftsstelle des BLSA. Der Antrag ist erst dann vollständig, wenn alle erforderlichen Unterlagen, wie Freigabeerklärung, Einwilligung der/des Erziehungsberechtigten oder Wohnungswechselnachweis, vorliegen.
+(1) Bei Umschreibung der Spielberechtigung innerhalb des BLSA, unterliegt der Spieler einer Wartezeit von drei Monaten. Die Wartezeit beginnt mit dem Eingang des vollständigen Antrags auf Ausstellung der Spielberechtigung durch den neuen Verein bei der Geschäftsstelle des BLSA. Der Antrag ist erst dann vollständig, wenn alle erforderlichen Unterlagen, wie Einwilligung der/des Erziehungsberechtigten oder Wohnungswechselnachweis, vorliegen.
 
-(2) Die Wartezeit kann bei Vereinswechsel wegen Umzugs innerhalb der letzten zwölf Monate außerhalb der kommunalen Grenzen auf 14 Tage verkürzt werden.
+(2) Die Wartezeit kann bei Umschreibung der Spielberechtigung wegen Umzugs innerhalb der letzten zwölf Monate außerhalb der kommunalen Grenzen auf 14 Tage verkürzt werden.
 
 (3) Die Wartezeit entfällt, wenn der Antrag nach Absatz 1 im Monat Juli eines jeden Jahres eingeht.
 
@@ -140,13 +142,9 @@ b) Ranglistenturniere,
 
 c) Mannschaftsmeisterschaften für Schüler, Jugend und Senioren,
 
-d) Landespokal für Schüler, Jugend und Senioren,
+d) Breitensportveranstaltungen.
 
-e) Verbandsspiele,
-
-f) Breitensportveranstaltungen.
-
-Die Termine dieser Wettkämpfe werden im BLSA-Handbuch für jede Spielsaison veröffentlicht.
+Die Termine dieser Wettkämpfe werden auf der Homepage des BLSA veröffentlicht.
 
 ### § 13 Ausrichter
 
@@ -283,7 +281,7 @@ a) bei Disqualifikation auf 21:0, 21:0 für den Gegner gesetzt,
 
 b) bei Verletzung zum Satzgewinn des Gegners aufgefüllt. Ein dadurch eventuell folgender Satz wird mit 21:0 angefügt.
 
-(2) Tritt ein Spieler zu einem Spiel nicht an, erfolgt der Ausschluss von der weiteren Teilnahme an dem Turnier, es sei denn, die Nichtteilnahme erfolgte verletzungsbedingt. Spieler, die nicht zehn Minuten nach dem in der Ausschreibung festgesetzten oder nachträglich mitgeteilten Disziplinbeginn spielbereit sind, können von der Teilnahme ausgeschlossen werden. Dasselbe gilt für Spieler, die nicht fünf Minuten nach dem zweiten Aufruf spielbereit sind.
+(2) Tritt ein Spieler zu einem Spiel nicht an, erfolgt der Ausschluss von der weiteren Teilnahme an dem Turnier, es sei denn, die Nichtteilnahme erfolgte verletzungsbedingt. Spieler, die nicht 30 Minuten vor dem in der Ausschreibung festgesetzten oder nachträglich mitgeteilten Disziplinbeginn Anwesend sind, können von der Teilnahme ausgeschlossen werden. Dasselbe gilt für Spieler, die nicht fünf Minuten nach dem zweiten Aufruf spielbereit sind. Erfolgt eine Absage nicht bis 30min vor dem angesetzten Disziplinbeginn ist dies eine Nichtabsage und es wird eine Ordnungsstrafe verhängt.
 
 *III. Ranglistenturniere*
 
@@ -333,19 +331,25 @@ b) bei Verletzung zum Satzgewinn des Gegners aufgefüllt. Ein dadurch eventuell 
 
 Die Teilnahme von Vereinen an der Mannschaftsmeisterschaft der Senioren bedingt die Benennung von je einem Schiedsrichter je gemeldeter Mannschaft, die sich auch für erforderliche Aufgaben zur Verfügung halten und fortbilden. Der Spielausschuss kann Vereine, die nicht genügend Schiedsrichter melden, mit einer Ordnungsgebühr belegen.
 
-### § 32 Spielgemeinschaften
+### § 32 Wettkampf-/Spielgemeinschaften
 
-(1) Die Bildung von Spielgemeinschaften (Spgem.) aus mehreren Vereinen, die Mitglied im BLSA sind, ist möglich. Über die Bildung von Spielgemeinschaften ist eine schriftliche Vereinbarung durch die Vereine abzuschließen. Aus dieser muss hervorgehen, welcher Verein bei der Auflösung der Spielgemeinschaften deren Rechte und Pflichten übernimmt. Eine Kopie dieser Vereinbarung ist dem Sportwart zuzuleiten. § 30 Absatz 3 gilt nur, wenn § 32 Absatz 3 nicht zutrifft.
+(1) Es ist möglich, dass Vereine eine Wettkampfgemeinschaft (BWeG) oder eine Spielgemeinschaft (BSpG) für Mannschaftswettbewerbe bilden. Die Vereine müssen Mitglied im BLSA sein. Die Spielberechtigungen der spielenden Personen verbleiben beim jeweiligen Verein.
 
-(2) Eine Zulassung für eine Spielgemeinschaft wird nur gewährt, wenn folgende Kriterien erfüllt werden:
+(2) Der Name der Gemeinschaft ist frei wählbar. Es wird aber zwingend BWeG bzw. BSpG vorangestellt.
 
-a) Die Zulassung der Spielgemeinschaft muss vor Beginn der Spielsaison vorliegen.
+(3) Wettkampfgemeinschaften können für einzelne Mannschaften gebildet werden. Spielgemeinschaften müssen über sämtliche Mannschaften (Erwachsene und Nachwuchs) der beteiligten Vereine gebildet werden. Dies gilt für neue aber auch bereits bestehende Mannschaften der beteiligten Vereine.
 
-b) Eine Durchgängigkeit durch alle Mannschaften einschließlich Jugend und Schüler muss gewährleistet sein.
+(4) Für Gemeinschaften muss ein Steuerungsverein benannt werden, der sämtliche Rechte und Pflichten gegenüber dem BLSA wahrnimmt.
 
-Bei allen Einzelwettbewerben (Meisterschaften, Ranglisten o.ä.) treten die Spieler für ihren Stammverein an.
+(5) Wettkampfgemeinschaften haben kein Aufstiegs-/Teilnahmerecht an offiziellen Wettkämpfen über den Landesverband hinaus.
 
-(3) Bei Gründung einer Spielgemeinschaft bleiben die in der zurückliegenden Saison erworbenen Rechte und Pflichten der Mannschaften dieser Spielgemeinschaften im Spielbetrieb erhalten.
+(6) Spielgemeinschaften müssen einen Vertrag schließen der zu Regeln hat wie der Mannschaftsverbleib bei Kündigung des Vertrages zu regeln ist. Bei einer Wettkampfgemeinschaft verbleibt die Mannschaft beim Steuerungsverein.
+
+(7) Bei Wettkampfgemeinschaften sind Spielende aus den Nichtsteuerungsvereinen nur in der Mannschaft spielberechtigt für die die Wettkampfgemeinschaft besteht.
+
+(8) Der Antrag auf eine neue Gemeinschaft muss bis zum 15.04. für die darauf folgende Saison an die Geschäftsstelle gestellt werden. Bei Spielgemeinschaften ist der Vertrag mit einzureichen. Ohne Kündigung, laufen die Gemeinschaften für alle weitere Saisons weiter.
+
+(9) Kündigungen von Gemeinschaften sind bis zum 15.04. für die darauf folgende Saison möglich.
 
 ### § 33 Verantwortliche
 
@@ -417,9 +421,13 @@ Die Halle muss für die Gastmannschaft mindestens 45 Minuten vor der offiziellen
 
 ### § 40 Spielbericht
 
-(1) Von jedem Spiel ist vom Wettkampfleiter ein Spielbericht anzufertigen. Besondere Vorkommnisse sind zu vermerken. Der Spielbericht ist von beiden Mannschaftsleitern zu bestätigen. Je eine Kopie erhalten die beteiligten Mannschaften. Das Original ist vom Heimverein (in neutraler Halle der erstgenannte Verein) spätestens am nächsten Werktag nach dem Spiel (Poststempel) dem Staffelleiter zuzusenden.
+(1) Von jedem Spiel ist vom Wettkampfleiter ein Spielbericht anzufertigen. Besondere Vorkommnisse sind zu vermerken. Der Spielbericht ist von beiden Mannschaftsleitern zu bestätigen. Je eine Kopie erhalten die beteiligten Mannschaften.
 
 (2) Der Heimverein (erstgenannte Verein) ist verpflichtet, das Detailergebnis am Spieltag bis 22:00 Uhr im Ergebnisdienst (turnier.de) einzugeben.
+
+(3) Der Gastverein ist verpflichtet (zweitgenannte Verein), das Detailergebnis im Ergebnisdienst zu kontrollieren.
+
+(4) Ein Einspruch gegen die Wertung der elektronisch übermittelten Ergebnisse hat bis zum auf den Spieltag folgenden Mittwoch, eingehend 22:00 Uhr, schriftlich und unter Übersendung des Spielberichtsbogens oder der Kopie bei dem Staffelleiter zu erfolgen.
 
 ### § 41 Wettkampfleiter
 
@@ -431,7 +439,7 @@ Bei den Spielen soll der Heimverein einen vereinsfremden Wettkampfleiter einsetz
 
 (1) Bis zum 1. August eines jeden Jahres haben die Vereine dem Sportwart eine Rangliste einzureichen. Die Meldung muss Namen, Vornamen, Geburtsdatum und die Spielberechtigungsnummer eines jeden Spielers enthalten. Jugendliche und Staatenlose sind zu kennzeichnen; bei Ausländern ist die Nationalität anzugeben.
 
-(2) Nach Ablauf der Frist aus Absatz 1 dürfen für die Hinrunde keine neuen Spieler aufgenommen werden. Bis spätestens sieben Tage vor Beginn der Rückrunde kann die Rangliste neu gemeldet werden.
+(2) Nach Ablauf der Frist aus Absatz 1, dürfen Spielende in die Meldung eingefügt werden. Sie müssen entsprechend Ihrer Spielstärke in die bestehende Rangliste integriert werden. Es gilt die Wartezeit aus § 10 SpO zu beachten. Bis spätestens sieben Tage vor Beginn der Rückrunde kann die Rangliste für die Rückrunde neu gemeldet werden.
 
 (3) Für Nachholspiele aus der Hinrunde gilt die Rangliste der Hinrunde.
 
@@ -635,7 +643,8 @@ Der Spielausschuss kann nach Einspruch des Vereins von der Wertung wegen Nichtan
 
 (1) Beim Zurückziehen einer Mannschaft während der laufenden Saison werden alle ihre Ergebnisse der laufenden Saison aus der Wertung genommen. Die Mannschaft verbleibt am Tabellenende und kann in der gleichen Saison in keiner anderen Spielklasse spielen.
 
-(2) Das Zurückziehen einer Mannschaft ist bis zum 1. September des laufenden Jahres ohne Konsequenzen möglich. Beim Zurückziehen einer Mannschaft nach diesem Zeitpunkt ist eine Ordnungsgebühr zu entrichten.
+(2) Das Zurückziehen einer Mannschaft ist bis zum 1. Mai des laufenden Jahres ohne Konsequenzen
+möglich. Beim Zurückziehen einer Mannschaft nach diesem Zeitpunkt ist eine Ordnungsgebühr zu entrichten.
 
 **7.** Proteste
 
@@ -655,63 +664,7 @@ Die Protestgebühr ist innerhalb der Protestfrist auf das Konto des BLSA zu übe
 
 Über Proteste entscheidet der Spielausschuss.
 
-## VI. Landespokal
-
-### § 78 Landespokal
-
-Der BLSA führt jährlich den Landespokal durch, für den die Bestimmungen der Mannschafts-meister-schaften entsprechend gelten, soweit nicht nachfolgend Abweichendes geregelt ist.
-
-### § 79 Einteilung
-
-(1) Der Landespokal ist in folgende sechs Wettbewerbe unterteilt:
-
-a) Landespokal Senioren Herren,
-
-b) Landespokal Senioren Damen,
-
-c) Landespokal Jugend männlich,
-
-d) Landespokal Jugend weiblich,
-
-e) Landespokal Schüler männlich,
-
-f) Landespokal Schüler weiblich.
-
-(2) Als Staffelleiter aller Wettbewerbe fungiert der Sportwart.
-
-(3) Der Sieger führt die Bezeichnung Landespokalsieger … (jeweiliger Wettbewerb) und erhält einen Pokal.
-
-### § 80 Durchführung
-
-(1) Die Landespokalwettbewerbe sind so durchzuführen, dass an einem Tag oder an einem Wochenende ein Landespokalfinale ausgetragen werden kann, an dem die Endspiele der sechs Wettbewerbe ausgespielt werden.
-
-(2) Landespokalspiele können auch außerhalb des in § 35 Absatz 2 genannten Zeitraums ausgetragen werden.
-
-(3) Die Wettbewerbe werden im K.-o.-System ausgetragen. Bei weniger als acht Mannschaften je Wettbewerb wird im Poolsystem gespielt. Der Wettbewerb wird bei weniger als drei Mannschaften nicht ausgetragen.
-
-(4) Es erfolgt stets Ballkostenteilung.
-
-(5) Werden Spiele in Turnierform ausgetragen, so ist für eine Spielverlegung nach § 37 Absatz 1 lit. c) das Einverständnis aller am Turnier teilnehmenden Vereine erforderlich.
-
-### § 81 Mannschaftsaufstellung
-
-(1) Bei den Wettbewerben des § 79 a), c) und e) besteht der Mannschaftswettkampf aus sechs Spielen, zwei Doppeln und vier Einzeln. Wird zwischen den Mannschaften keine andere Vereinbarung getroffen, ist in folgender Reihenfolge zu spielen: 1. Doppel, 2. Doppel, 1. Einzel, 2. Einzel, 3. Einzel, 4. Einzel. Es können maximal fünf Spieler in der vor der Saison bestätigten Mannschaftsaufstellung aufgeführt werden.
-
-(2) Bei den Wettbewerben des § 79 b), d) und f) besteht der Mannschaftswettkampf aus vier Spielen, einem Doppel und drei Einzeln. Wird zwischen den Mannschaften keine anderen Vereinbarung getroffen, ist in folgender Reihenfolge zu spielen: Doppel, 1. Einzel, 2. Einzel, 3. Einzel. Es können maximal vier Spielerinnen in der Mannschaftsaufstellung aufgeführt werden.
-
-(3) Kann nicht vollständig angetreten werden, sind wenigstens ein Doppel und zwei Einzel zu spielen.
-
-### § 82 Wertung
-
-Bei Mannschaftswettkämpfen, bei denen allein Sieg oder Niederlage von Bedeutung sind, ist der Sieger nach § 67 zu ermitteln. Sollte auch die Differenz der Spielergebnispunkte gleich sein, so wird sofort im Anschluss an die Begegnung ein Satz im Doppel zu Ermittlung des Siegers ausgetragen. Die Doppel können beliebig aus den im Wettkampf eingesetzten Spielern einschließlich "vorgesehener Ersatzspieler" zusammengestellt werden. Sie sind dem Wettkampfleiter nach Aufforderung schriftlich verdeckt von den Mannschaftsleitern zu benennen.
-
-## VII. Verbandsspiele
-
-### § 83 Verbandsspiele
-
-Einmal jährlich an einem Wochenende am Ende der Spielsaison veranstaltet der BLSA seine Verbandsspiele. Das Turnier stellt den sportlichen Saisonausklang dar, bei dem möglichst allen Alters- und Leistungsklassen Wettbewerbe anzubieten sind. Am Ende des Turniers wird neben den Siegern der einzelnen Disziplinen auch der beste Verein geehrt.
-
-## VIII. Schlussbestimmungen
+## VI. Schlussbestimmungen
 
 ### § 84 Inkrafttreten
 

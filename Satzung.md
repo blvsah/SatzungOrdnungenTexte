@@ -1,6 +1,6 @@
 # Satzung
 
-**Stand: 25. September 2020**
+**Stand: 15. Oktober 2021**
 
 ## I. Allgemeine Bestimmungen
 
@@ -54,7 +54,7 @@ Weiterhin gelten die Ordnungen des nationalen Verbandes.
 
 ### § 6 Erwerb der Mitgliedschaft
 
-Verbandsmitglied kann auf Grund eines schriftlichen Antrages jeder den Badmintonsport betreibende Verein des Landes Sachsen-Anhalt sowie die von den Vereinen auf regionaler Ebene gebildeten Zusammenschlüsse werden, deren Ziele mit dieser Satzung vereinbar sind. Die Mitgliedschaft wird nach vorläufiger Genehmigung durch das Büro auf Beschluss des nächsten Verbandstages erworben.
+Verbandsmitglied kann auf Grund eines schriftlichen oder per E-Mail eingereichten aktuellen unterschriebenen Aufnahmeantrages nach Beschluss durch das Büro des BLSA jeder den Badmintonsport betreibende Verein des Landes Sachsen-Anhalt werden, deren Ziele mit dieser Satzung vereinbar sind. Sollte das Präsidium der Aufnahme widersprechen, kann der Verbandstag angerufen werden. Dieser entscheidet endgültig.
 
 Personen, die sich um die Sache des Sports oder um den Verband besonders verdient gemacht haben, können auf Vorschlag des BLSA-Präsidiums vom Verbandstag zu Ehrenmitgliedern gewählt werden. Ehrenmitglieder sind von der Beitragszahlung befreit.
 
@@ -103,15 +103,13 @@ a) die Satzung und Ordnungen des BLSA sowie die vom Verbandstag gefassten Beschl
 
 b) an den BLSA einen Beitrag zu entrichten, dessen Höhe auf dem Verbandstag beschlossen wird;
 
-c) der BLSA-Geschäftsstelle auf Anforderung statistische Angaben, insbesondere über die aktiven und passiven Mitglieder einzureichen;
+c) dem BLSA eine E-Mailadresse und Anschrift der Vereins bzw. Abteilungsansprechpartner sowie ggf. weiterer Ämter mitzuteilen, sowie laufend aktuell zu halten.
 
-d) der BLSA-Geschäftsstelle alljährlich im Anschluss an den Verbandstag die Namen und Anschriften der Vorstandsmitglieder mitzuteilen.
+d) Beschlüsse des Verbandsgerichtes nach Anweisung des BLSA-Präsidiums zu vollstrecken;
 
-e) Beschlüsse des Verbandsgerichtes nach Anweisung des BLSA-Präsidiums zu vollstrecken;
+e) in allen aus der Mitgliedschaft zum BLSA erwachsenden Rechtsangelegenheiten vor Anrufen der ordentlichen Gerichte zunächst den gemäß der Rechtsordnung vorgesehenen Rechtsweg zu erschöpfen;
 
-f) in allen aus der Mitgliedschaft zum BLSA erwachsenden Rechtsangelegenheiten vor Anrufen der ordentlichen Gerichte zunächst den gemäß der Rechtsordnung vorgesehenen Rechtsweg zu erschöpfen;
-
-g) eigene Beschwerden gegen Vereine anderer Landesverbände und Vereine des Auslandes dem BLSA vorzulegen.
+f) eigene Beschwerden gegen Vereine anderer Landesverbände und Vereine des Auslandes dem BLSA vorzulegen.
 
 ## IV. Organe des BLSA
 
@@ -141,7 +139,7 @@ Hierunter fallen sowohl Rundschreiben, einfacher oder eingeschriebener Brief als
 
 Der Verbandstag setzt sich zusammen aus:
 
-a) den Delegierten der Vereine und der auf regionaler Ebene bestehenden Zusammenschlüsse nach Maßgabe der ihnen zustehenden Stimmen
+a) den Delegierten der Vereine
 
 b) dem Verbandspräsidium
 
@@ -157,15 +155,13 @@ Das Stimmrecht der Vereine auf dem Verbandstag ist wie folgt geregelt:
 
 Die Mitgliederstärke wird auf Grund der Bestandserhebung mit dem 1. Januar jeden Jahres als Stichtag nachgewiesen. Ein Delegierter kann bis zu 3 Stimmen für seinen Verein wahrnehmen.
 
-Die Zusammenschlüsse auf regionaler Ebene haben nur eine Stimme, es sei denn, sie treten statt der Vereine ihres Bereiches selbst als e.V. auf. Dann gilt das Stimmrecht wie bei Vereinen.
-
 ### § 15 Kosten
 
 Die Kosten des Verbandstages tragen:
 
 a) Der BLSA für das Präsidium und die Mitglieder der Ausschüsse, das Verbandsgericht und die Kassenprüfer
 
-b) die Vereine und die Zusammenschlüsse auf regionaler Ebene für Ihre Delegierten.
+b) die Vereine für Ihre Delegierten.
 
 ### § 16 Aufgaben
 
@@ -183,7 +179,7 @@ e) sonstige Anträge, Satzungsänderungen
 
 f) die Genehmigung des Haushaltsplanes
 
-g) die Aufnahme und den Ausschluss von Vereinen und Zusammenschlüssen auf regionaler Ebene
+g) den Ausschluss von Vereinen
 
 h) die Wahl der Delegierten des BLSA für den nationalen Verbandstag.
 
@@ -215,7 +211,7 @@ Wählbar sind nur diejenigen Personen, die zur Wahl anwesend sind oder eine schr
 
 ### § 19 Anträge
 
-Anträge zum Verbandstag können von den Verbandsorganen des BLSA und von den Vereinen und Zusammenschlüssen auf regionaler Ebene eingebracht werden. Sie sind spätestens 4 Wochen vor dem Verbandstag bei der BLSA-Geschäftsstelle (§ 24) bekanntzugeben. Später einlaufende Anträge dürfen, soweit sie nicht Abänderungs- oder Gegenanträge eines vorliegenden Antrages sind, nur als Dringlichkeitsanträge behandelt werden.
+Anträge zum Verbandstag können von den Verbandsorganen des BLSA und von den Vereinen eingebracht werden. Sie sind spätestens 4 Wochen vor dem Verbandstag bei der BLSA-Geschäftsstelle (§ 24) bekanntzugeben. Später einlaufende Anträge dürfen, soweit sie nicht Abänderungs- oder Gegenanträge eines vorliegenden Antrages sind, nur als Dringlichkeitsanträge behandelt werden.
 
 Der Verbandstag entscheidet endgültig über die Dringlichkeit eines Antrages.
 
@@ -347,7 +343,9 @@ Die Protokolle und Beschlüsse aller Organe sowie die Urteile des Verbandsgerich
 
 Änderungen der Satzung können vom Verbandstag mit Zweidrittelmehrheit der erschienenen Stimmberechtigten beschlossen werden.
 
-Änderungen der in § 5 genannten Ordnungen des BLSA werden vom Verbandstag mit einfacher Mehrheit der abgegebenen Stimmen beschlossen.
+Änderungen der Ordnungen des BLSA können mit einfacher Mehrheit durch das Büro geändert werden. Der Beschluss über die Änderung ist nur wirksam, wenn alle Vereine per E-Mail über die Änderung informiert wurden und innerhalb von 6 Wochen nach Versendung der E-Mail keine Einwände von diesen erhoben wurden.
+
+Satzungsänderungen, die von Aufsichts-, Gerichts- und Finanzbehörden aus formalen Gründen verlangt werden, können vom vertretungsberechtigten Präsidium vorgenommen werden. Die Satzungsänderungen sind anschließend umgehend auf der BLSA Webseite zu veröffentlichen.
 
 ### § 34 Auflösung
 

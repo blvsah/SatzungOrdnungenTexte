@@ -1,6 +1,6 @@
 # Finanz- und Kassenordnung Anlage (Finanzsätze)
 
-**Stand: 25. September 2020**
+**Stand: 15. Oktober 2021**
 
 ## I. Erstattungen für das Präsidium
 
@@ -46,20 +46,17 @@ Ordnungs- und Säumnisgebühren werden bei Nichteinhaltung der folgend aufgefüh
 
 ||| Euro |
 |---:|---|---:|
-| 1. | Ergebnismeldung vom Spielbetrieb des BLSA an den Pressewart | 10,00 |
-| 2. | Absendung von Spielprotokollen und Turnierlisten | 10,00 |
-| 3. | Absendung von Spielprotokollen und Turnierlisten im Wiederholungsfall | 20,00 |
-| 4. | Abrechnung von Turnieren | 15,00 |
-| 5. | Rücksendung von Bestandserhebungen und Statistikformularen | 10,00 |
-| 6. | Meldetermine aller Art | 10,00 |
-| 7. | Antritt zu Turnieren (Ranglisten, Meisterschaften) nach Meldung pro Nennung, bei überregionalen Turnieren zuzüglich der Erstattung der bereits durch den BLSA bezahlten Meldegebühren | 10,00 |
-| 8. | Antritt zum Punkt-/Pokalspiel | 50,00 |
-| 9. | Unterrichtung des Gegners bei Nichtantritt zum Punkt-/Pokalspiel | 10,00 |
-| 10. | Verlängerung/Neubeantragung der Spielermeldelisten bis 15.07. des jeweiligen Jahres | 15,00 |
-| 11. | Anträge auf Jugend- und Seniorenfreigaben bis 15.07. des jeweiligen Jahres | 15,00 |
-| 12. | Meldung von Spielerfreigaben bei Vereinswechsel an die Passstelle nach Aufforderung | 10,00 |
-| 13. | Vorlage der bestätigten Spielberechtigungsliste bei Mannschaftswettkampf oder Turnier | 10,00 |
-| 14. | schriftlicher Kostenvoranschlag bis spätestens zwei Wochen vor Beginn einer überregionalen Wettkampfmaßnahme sowie Abrechnung bis spätestens zwei Wochen nach Abschluss der Maßnahme | 15,00 |
+| 1. | Nicht rechtzeitige Meldung des Detailergebnisses/Informationen im online Ergebnisdienst (pro Begegnung) | 10,00
+| 2. | Versäumte Rückgabe der Turnierdatei am letzten Turniertag an den Verband | 10,00
+| 3. | Rückzug einer Mannschaft nach dem 01.05. | 50,00
+| 4. | Verspätete Anmeldung einer Mannschaft (nach dem 01.05.) | 20,00
+| 5. | Meldung zum Turnier nach Meldeschluss (pro Person) | 10,00
+| 6. | Nichtantritt und Nichtabsage bei einem Individualturnier | 20,00
+| 7. | Nichtantritt zu überregionalen Turnieren nach erfolgter Meldung durch den Verband (pro Meldung) zzgl. weiterer entstehender Kosten des Verbandes | 10,00
+| 8. | Nichtantritt zu einer Punktspielbegegnung | 50,00
+| 9. | Nicht erfolgte Mitteilung an den Gegner bei Nichtantritt zu einer Punktspielbegegnung | 10,00
+| 10. | Nichtabgabe der Mannschaftsrangliste zum 01.08. jeden Jahres | 15,00
+| 11. | Fehlende bestätigte Schiedsrichter pro Mannschaft (pro Schiedsrichter) ab Saison 2022/23 | 50,00
 
 **B.** Termingerechte Einzahlung von Finanzabforderungen des BLSA durch die Vereine
 
@@ -92,35 +89,15 @@ Bei Überschreitung der festgesetzten Einzahlungsfrist der 3. Mahnung erfolgt ei
 | F. | Jugend (alle Spielklassen) | 15,00 |
 | G. | Schüler (alle Spielklassen) | 10,00 |
 
-## VI. Start- und Ballgelder
+## VI. Meldegelder
 
-**A.** Startgeld pro Teilnehmer und Disziplin bei Ranglisten und Einzelmeisterschaften (Landes- und Regionalebene)
-
-||| Euro |
-|---:|---|---:|
-| 1. | Senioren | 4,00 |
-| 2. | Schüler/Jugend | 4,00 |
-
-**B.** Startgeld pro Disziplin bei Breitensportturnieren
+**A.** Meldegeld bei Individualturnieren pro Teilnehmer und Disziplin
 
 ||| Euro |
 |---:|---|---:|
-| 1. | Senioren (Mitglieder des BLSA oder anderer Badminton-Landesverbände) | 3,00 |
-| 2. | Senioren (nicht-organisierte Mitglieder des BLSA) | 5,00 |
-| 3. | Schüler/Jugend (Mitglieder des BLSA oder anderer Badminton-Landesverbände) | 0,00 |
-| 4. | Schüler/Jugend (nicht-organisierte Mitglieder des BLSA) | 5,00 |
-
-**C.**  Ballgeld pro Disziplin bei Ranglisten- und Meisterschaftsturnieren
-
-|| Euro |
-|---|---:|
-| für Schüler, wenn laut Ausschreibung mit Plastikbällen gespielt wird und diese vom Ausrichter gestellt werden | 2,00 |
-
-**D.**  Ballgeld pro Disziplin bei Breitensportturnieren
-
-|| Euro |
-|---|---:|
-| für alle Altersklassen, wenn laut Ausschreibung mit Plastikbällen gespielt wird und diese vom Ausrichter gestellt werden | 2,00 |
+| 1. | Landesebene U22, O19, O35+ | 7,00 |
+| 2. | Landesebene Schüler/Jugend | 4,00 |
+| 3. | Regionalebene Schüler/Jugend | 4,00 |
 
 ## VII. Schiedsrichter- und Übungsleiterausweise
 

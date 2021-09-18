@@ -1,6 +1,6 @@
 # Spielordnung Anlage II (Ranglistenordnung Schüler und Jugend)
 
-**Stand: 4. Mai 2019**
+**Stand: 15. Oktober 2021**
 
 *In Ergänzung und zur Erläuterung der DBV-Turnierordnung erlässt der BLSA Jugendausschuss nachfolgende Bestimmungen für die Landesranglistenturniere.*
 
@@ -143,7 +143,7 @@ Liegt die Zahl der Meldungen unter 25 Teilnehmern, so wird weiter im Doppel-K.-o
 
 ### § 10 Ranglistenwertung
 
-(1) In die Gesamtwertung gehen die besten Ergebnisse der zu spielenden Ranglistenturniere einer Spielsaison ein. Das schlechteste aller Ergebnisse wird nicht in die Wertung einbezogen. Eine Fortschreibung über die Jahre erfolgt nicht. Der Stand einer Rangliste zum Ende einer Saison dient als Setzkriterium für das 1. LRLT der neuen Saison und zur Ermittlung der TOP-Spieler für die Verbandsspiele.
+(1) In die Gesamtwertung gehen die besten Ergebnisse der zu spielenden Ranglistenturniere einer Spielsaison ein. Das schlechteste aller Ergebnisse wird nicht in die Wertung einbezogen. Eine Fortschreibung über die Jahre erfolgt nicht. Der Stand einer Rangliste zum Ende einer Saison dient als Setzkriterium für das 1. LRLT der neuen Saison.
 
 (2) Spieler, die im Interesse des BLSA e.V. zur Austragungszeit eines LRLT an einer anderen Veranstaltung teilnehmen, erhalten für das versäumte LRLT eine Zwischenwertung der beiden letzten Veranstaltungen errechnet. Die Entscheidung trifft der BLSA-Jugendausschuss.
 
