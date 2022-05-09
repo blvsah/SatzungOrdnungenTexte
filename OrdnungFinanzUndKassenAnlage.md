@@ -1,6 +1,6 @@
 # Finanz- und Kassenordnung Anlage (Finanzsätze)
 
-**Stand: 15. Oktober 2021**
+**Stand: 07. Mai 2022**
 
 ## I. Erstattungen für das Präsidium
 
@@ -221,3 +221,11 @@ Die Finanzierung von Ehrungen erfolgt durch den Antragsteller beziehungsweise au
 | E. | Urkunde zur Ehrennadel des BLSA | 2,20 |
 | F. | Ehrenurkunde des BLSA | 7,00 |
 | G. | Ehrenplakette des BLSA (incl. Volletui) | 12,00 |
+
+## XIV. Refereehonorar
+
+Der BLSA benennt für die offiziellen Verbandsturniere Referees. Diese erhalten pro Tag eine Tagespauschale als Honorar. Entstandene Reisekosten können nach Punkt I. Präsidium abgerechnet werden.
+
+|| Euro |
+|---|---:|
+| Referee Tagespauschale | 40,00 |
