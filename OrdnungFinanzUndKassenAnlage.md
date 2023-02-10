@@ -1,6 +1,6 @@
 # Finanz- und Kassenordnung Anlage (Finanzsätze)
 
-**Stand: 07. Mai 2022**
+**Stand: 01. Februar 2023**
 
 ## I. Erstattungen für das Präsidium
 
@@ -28,7 +28,6 @@ durch den BLSA zu tragen. Pro Person ist hierfür ein Betrag anzusetzen von maxi
 |---:|---|---:|
 | 1. | BLSA-Veranstaltungen (nachweispflichtig), maximal | 40,00 |
 | 2. | DBV-Veranstaltungen (nachweispflichtig) | entsprechend den Aufwendungen |
-| 3. | Übernachtungskosten, die die Kosten eines Frühstücks einschließen, sind vorab zu kürzen um | 4,60 |
 
 ## II. Mitgliedsbeiträge
 
@@ -99,25 +98,11 @@ Bei Überschreitung der festgesetzten Einzahlungsfrist der 3. Mahnung erfolgt ei
 | 2. | Landesebene Schüler/Jugend | 4,00 |
 | 3. | Regionalebene Schüler/Jugend | 4,00 |
 
-## VII. Schiedsrichter- und Übungsleiterausweise
-
-||| Euro |
-|---:|---|---:|
-| A. | Ausstellung und Verlängerung von Schiedsrichterausweisen | 5,00 |
-| B. | Ausstellung und Verlängerung von Übungsleiterausweisen | 5,00 |
-| C. | Ausstellung einer Zweitschrift dieser Ausweise | 10,00 |
+## VII. Ungenutzt
 
 ## VIII. Abrechnung von offiziellen Wettkämpfen des BLSA
 
 **A.** Der BLSA stellt den Ausrichtern eine Gebühr von 25% des Meldegeldes in Rechnung. Das Meldegeld wird aufgrund aller Meldungen errechnet.
-
-**B.** Landespokal
-
-Bis zum Finale erfolgt Ballkostenteilung, für das Finale stellt der BLSA die Bälle.
-
-**C.** End- und Aufstiegsrunden der Mannschaftsmeisterschaften
-
-Der BLSA stellt zwei Dutzend Bälle.
 
 ## IX. Überregionale Wettkämpfe im Interesse des BLSA
 
@@ -127,18 +112,16 @@ Der BLSA stellt zwei Dutzend Bälle.
 
 ||| Euro |
 |---:|---|---:|
-| a. | Auto pro km | 0,11 |
-| b. | pro Mitfahrer und km | 0,03 |
-| c. | Maximalbetrag | 0,20 |
-| d. | Bus incl. Kraftstoff (nachweispflichtig) | entsprechend den Aufwendungen |
-| e. | Deutsche Bahn AG 2. Klasse (nachweispflichtig) | entsprechend den Aufwendungen |
+| a. | Auto pro km | 0,20 |
+| b. | Bus incl. Kraftstoff (nachweispflichtig) | entsprechend den Aufwendungen |
+| c. | Deutsche Bahn AG 2. Klasse (nachweispflichtig) | entsprechend den Aufwendungen |
 
 **2.** Übernahme von sonstigen Kosten
 
 ||| Euro |
 |---:|---|---:|
 | a. | Unterkunft pro Tag und Person | entsprechend den Aufwendungen |
-| b. | Startgelder und Kosten für Physiotherapie | entsprechend den Aufwendungen |
+| b. | Startgelder und Umlage für Physiotherapie | entsprechend den Aufwendungen |
 | c. | Ballkosten | entsprechend den Aufwendungen |
 
 **3.** Zuschuss für Fahrt- und Übernachtungskosten bei überregionalen Mannschaftsmeisterschaften der Schüler/Jugend als Festbetrag
@@ -151,31 +134,19 @@ Der BLSA stellt zwei Dutzend Bälle.
 
 || Euro |
 |---|---:|
-| Eigenbeteiligung | 35,00 |
+| Eigenbeteiligung | 100,00 |
 
 **B.** Senioren/Altersklassen
 
 Kostenübernahme durch den BLSA bei Teilnahme an Norddeutschen Meisterschaften nur für die Plätze 1 bis 3 der Landesmeisterschaften sowie bei Teilnahme an Deutschen Meisterschaften nur für die Plätze 1 bis 3 der Norddeutschen Meisterschaften
 
-Die Erstattung der Kosten erfolgt nach Antragstellung beim BLSA unter Berücksichtigung der kostengünstigsten Variante.
+Die Erstattung der Kosten erfolgt nach Antragstellung beim BLSA.
 
-**1.** Übernahme von Fahrtkosten
-
-||| Euro |
-|---:|---|---:|
-| a. | Auto pro km | 0,11 |
-| b. | pro Mitfahrer und km | 0,03 |
-| c. | Maximalbetrag | 0,20 |
-| d. | Bus incl. Kraftstoff (nachweispflichtig) | entsprechend den Aufwendungen |
-| e. | Deutsche Bahn AG 2. Klasse (nachweispflichtig) | entsprechend den Aufwendungen |
-
-**2.** Übernahme von sonstigen Kosten
+**1.** Übernahme von Startgeldern
 
 ||| Euro |
 |---:|---|---:|
-| a. | Zuschuss für Unterkunft pro Tag und Person | 15,00 |
-| b. | Startgelder und Kosten für Physiotherapie | entsprechend den Aufwendungen |
-| c. | Ballkosten | entsprechend den Aufwendungen |
+| a. | Startgelder und Umlage für Physiotherapie | entsprechend den Aufwendungen |
 
 ## X. Öffentlichkeitsarbeit
 
