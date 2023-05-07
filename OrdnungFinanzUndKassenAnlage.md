@@ -1,6 +1,6 @@
 # Finanz- und Kassenordnung Anlage (Finanzsätze)
 
-**Stand: 01. Februar 2023**
+**Stand: 6. Mai 2023**
 
 ## I. Erstattungen für das Präsidium
 
@@ -13,7 +13,7 @@ Maximalsumme pro Jahr für das gesamte Präsidium 920,00 Euro
 **B.** Aufwand für Verpflegung
 
 Bei Sitzungen des Präsidiums und seiner Ausschüsse sind die Kosten für Verpflegung
-durch den BLSA zu tragen. Pro Person ist hierfür ein Betrag anzusetzen von maximal 5,00 Euro
+durch den BLSA zu tragen. Pro Person ist hierfür ein Betrag anzusetzen von maximal 5,00 Euro.
 
 **C.** Fahrtkosten (An- und Abreise)
 
@@ -26,8 +26,10 @@ durch den BLSA zu tragen. Pro Person ist hierfür ein Betrag anzusetzen von maxi
 
 ||| Euro |
 |---:|---|---:|
-| 1. | BLSA-Veranstaltungen (nachweispflichtig), maximal | 40,00 |
+| 1. | BLSA-Veranstaltungen (nachweispflichtig) | entsprechend den Aufwendungen |
 | 2. | DBV-Veranstaltungen (nachweispflichtig) | entsprechend den Aufwendungen |
+
+Ausgaben erfolgen unter Einhaltung des Sparsamkeitsprinzips.
 
 ## II. Mitgliedsbeiträge
 
@@ -73,8 +75,7 @@ Bei Überschreitung der festgesetzten Einzahlungsfrist der 3. Mahnung erfolgt ei
 |---:|---|---:|
 | A. | Personenneuerfassung/-reaktivierung | 3,00 |
 | B. | Spielerbestätigung| 0,50 |
-| C. | Freigaben für Schüler und Jugend | 0,50 |
-| D. | Umschreibung | 5,00 |
+| C. | Umschreibung | 5,00 |
 
 ## V. Mannschaftsnenngelder pro Spielsaison
 
@@ -148,21 +149,7 @@ Die Erstattung der Kosten erfolgt nach Antragstellung beim BLSA.
 |---:|---|---:|
 | a. | Startgelder und Umlage für Physiotherapie | entsprechend den Aufwendungen |
 
-## X. Öffentlichkeitsarbeit
-
-**A.** Handbuch
-
-||| Euro |
-|---:|---|---:|
-| 1. | Abnahme von 1 Exemplar | 7,00 |
-| 2. | Abnahme jedes weiteren Exemplars | 3,00 |
-
-**B.** Werbekosten
-
-||| Euro |
-|---:|---|---:|
-| 1. | Anzeige im Handbuch (maximale A4-Größe) | 70,00 |
-| 2. | Veröffentlichung von Ausschreibungen/Informationen von nicht-organisierten Vereinen innerhalb des BLSA im Badminton-Sport oder auf der BLSA-Homepage (maximal 1 Seite) | 30,00 |
+## X. Ungenutzt
 
 ## XI. Lehrarbeit
 
@@ -182,16 +169,7 @@ Der BLSA honoriert Vereine für Spitzenleistungen ihrer Spieler im Nachwuchsleis
 | B. | Teilnahme an Welt- oder Europameisterschaften (je Turnierteilnahme), soweit keine Medaille im gleichen Wettbewerb gewonnen wird | 100,00 |
 | C. | Medaillenrang bei Deutschen Meisterschaften (je Medaille) | 100,00 |
 
-## XIII. Ehrungen
-
-Die Finanzierung von Ehrungen erfolgt durch den Antragsteller beziehungsweise auf Beschluss des Präsidiums durch den BLSA.
-
-||| Euro |
-|---:|---|---:|
-| D. | Ehrennadel des BLSA | 5,50 |
-| E. | Urkunde zur Ehrennadel des BLSA | 2,20 |
-| F. | Ehrenurkunde des BLSA | 7,00 |
-| G. | Ehrenplakette des BLSA (incl. Volletui) | 12,00 |
+## XIII. Ungenutzt
 
 ## XIV. Refereehonorar
 

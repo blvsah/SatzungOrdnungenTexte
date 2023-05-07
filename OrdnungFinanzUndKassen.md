@@ -1,6 +1,6 @@
 # Finanz- und Kassenordnung
 
-**Stand: 4. März 2012**
+**Stand: 6. Mai 2023**
 
 ## A. Allgemeines
 
@@ -30,7 +30,7 @@
 
 (4) Die Führung der Handkasse obliegt dem Geschäftsführer. Der maximale Handkassenbestand ist festgelegt mit 750 Euro.
 
-(5) Zur Verfügung über das Bankkonto sind zwei Vertreter nur gemeinsam berechtigt. Vertreter sind der Präsident, der Vizepräsident und der Geschäftsführer. Jeder der genannten Vertreter ist berechtigt, Online-Banking auszuführen, wenn ein von zwei Vertretern bestätigter Beleg vorliegt.
+(5) Zur Verfügung über das Bankkonto sind zwei Vertreter nur gemeinsam berechtigt. Vertreter sind der Präsident, der Vizepräsident und der Geschäftsführer. Die genannten Vertreter sind berechtigt, Online-Banking im 2-Schritt Verfahren (TAN Bestätigung durch eine weitere Person) auszuführen.
 
 ### § 4 Geschäftsjahr
 
@@ -53,20 +53,16 @@ b) durch die der genehmigte Haushalts-/Wirtschaftsplan überschritten wird, Wide
 ### § 6 Haushalts-/Wirtschaftsplan
 
 (1) Auf Basis der Finanzmittelzuweisungen des Landes Sachsen-Anhalt (Zuwendungsgeber) zur Sportförderung, der Einnahmen aus Mitgliedsbeiträgen an den BLSA und sonstiger Einnahmen ist in Verbindung mit der Ausgabenschätzung und den Zahlungsforderungen des Deutschen Badminton-Verbandes (DBV) und des Deutschen Olympischen Sportbundes (DOSB) für jedes neue Geschäftsjahr ein Haushalts-/Wirtschaftsplan
-durch den Schatzmeister unter Einhaltung der Terminforderungen des Zuwendungsgebers zu erstellen.
+durch den Schatzmeister zu erstellen.
 
-(2) Die Gliederung des Haushalts-/Wirtschaftsplans richtet sich nach den Anforderungen des Zuwendungsgebers.
+(2) Einnahmen und Ausgaben des Haushalts-/Wirtschaftsplans sind gegenseitig deckungsgleich zu gestalten.
 
-(3) Einnahmen und Ausgaben des Haushalts-/Wirtschaftsplans sind gegenseitig deckungsgleich zu gestalten.
-
-(4) Der Haushalts-/Wirtschaftsplan ist dem Präsidium mindestens vier Wochen vor der Einreichung bei dem Zuwendungsgeber schriftlich zur Einsicht mitzuteilen. Änderungsvorschläge sind dem Schatzmeister schriftlich vom Präsidium innerhalb von 14 Tagen nach Erhalt des Haushalts-/Wirtschaftsplans anzuzeigen.
-
-(5) Der Haushalts-/Wirtschaftsplan ist vom Verbandstag zu bestätigen.
+(3) Der Haushalts-/Wirtschaftsplan ist vom Verbandstag zu bestätigen.
 
 ### § 7 Jahresabschluss
 
 (1) Im ersten Quartal nach Abschluss des Geschäftsjahrs ist vom Schatzmeister der Jahresabschluss für das
-abgelaufene Geschäftsjahr unter Einhaltung der Terminforderungen des Zuwendungsgebers zu erstellen.
+abgelaufene Geschäftsjahr zu erstellen.
 
 (2) Der Jahresabschluss muss die folgenden Punkte enthalten:
 
@@ -76,11 +72,6 @@ b) Handkassenübersicht,
 
 c) Schulden- und Vermögensübersicht,
 
-d) Abrechnung gemäß den Abrechnungsvorschriften des Zuwendungsgebers.
-
-Der Finanzmitteleinsatz und der Abschluss des Geschäftsjahrs richten sich nach den Anforderungen des
-Zuwendungsgebers.
-
 (3) Der Jahresabschluss ist dem Präsidium und dem Verbandstag in einem schriftlichen Bericht mitzuteilen.
 
 (4) Der Jahresabschluss ist vom Verbandstag zu bestätigen.
@@ -89,7 +80,7 @@ Zuwendungsgebers.
 
 (1) Für jede Einnahme und Ausgabe muss ein ordnungsgemäßer Beleg vorhanden sein, aus dem das Datum, der Betrag und der Verwendungszweck ersichtlich sind.
 
-(2) Alle Belege sind vom Schatzmeister auf ihre Richtigkeit zu überprüfen. Nach Überprüfung sind die Belege vom Schatzmeister durch einen entsprechenden Vermerk und seine Unterschrift zu verbuchen.
+(2) Alle Belege sind vom Schatzmeister auf ihre Richtigkeit zu überprüfen. Nach Überprüfung sind die Belege vom Schatzmeister durch einen entsprechenden Vermerk (Buchungsnummer) zu verbuchen.
 
 (3) Die Verbuchung der Belege hat fortlaufend zu erfolgen.
 
@@ -131,7 +122,7 @@ Dem Präsidium können Aufwandsentschädigungen entsprechend der Finanzlage des 
 
 ### § 13 Verbindlichkeiten
 
-Das Eingehen von Rechtsverbindlichkeiten ist dem BLSA nicht gestattet. Ausnahmen bedürfen der Zustimmung des Verbandstags.
+Das Eingehen von Darlehensverbindlichkeiten ist dem Vorstand des BLSA nicht gestattet. Ausnahmen bedürfen der Zustimmung des Verbandstags.
 
 ### § 14 Inventar
 

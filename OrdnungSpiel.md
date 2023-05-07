@@ -1,6 +1,6 @@
 # Spielordnung
 
-**Stand: 15. Oktober 2021**
+**Stand: 06. Mai 2023**
 
 ## A. Allgemeines
 
@@ -98,23 +98,13 @@ e) von anderen, auch ausländischen, Landesverbänden zum BLSA wechseln und vom 
 
 ### § 9 Wechsel der Spielberechtigung (Umschreibung)
 
-(1) Möchte eine Person seine/ihre Spielberechtigung zu einem anderen Verein wechseln, geschieht dies auf Antrag beim BLSA. Antragsberechtigt ist der Verein (oder Landesverband) zu dem die Spielberechtigung wechseln soll. Der BLSA kümmert sich um die Freigabeerklärung beim Verein bzw. Landesverband bei dem die Spielberechtigung aktuell aktiv ist.
+(1) Möchte eine Person seine/ihre Spielberechtigung zu einem anderen Verein wechseln, geschieht dies über einen Antrag beim BLSA. Antragsberechtigt ist der Verein (oder Landesverband) zu dem die Spielberechtigung wechseln soll. Der BLSA kümmert sich bei einem verbandsübergreifenden Wechsel um die Freigabeerklärung beim Landesverband bei dem die Spielberechtigung aktuell aktiv ist.
 
-(2) Spielerinnen und Spieler sind grundsätzlich freizugeben. Der Übertragung der Spielberechtigung auf einen neuen Verein kann nur unter den Voraussetzungen des Absatz 3 widersprochen werden. Erfolgt keine Mitteilung über eine Freigabe, ist der Spieler freigegeben, wenn nach Aufforderung der Passstelle innerhalb von 10 Tagen keine Freigabeerklärung eingeht. Wird die Freigabe verweigert, sind die Gründe innerhalb derselben Frist der Passstelle mitzuteilen, andernfalls gilt die Freigabe als erklärt.
+(2) Verbandsinterne Umschreibungen werden durchgeführt, Umschreibungsanträge aus anderen Landesverbänden werden von der Passstelle freigegeben. Der abgebende Verein wird jeweils über den Wechsel der Spielberechtigung informiert.
 
-(3) Die Freigabeverweigerung darf nur darauf gestützt werden, dass
+(3) Kann eine Person die umgeschrieben wurde glaubhaft versichern, dass die Umschreibung von ihr gar nicht gewollt war, wird der Vorgang rückgängig gemacht. Hierführ gilt eine Frist von 10 Tagen nach Umschreibung.
 
-a) Beitragsrückstände oder Verbindlichkeiten aus der Vereinssatzung oder aus Verträgen vorhanden sind,
-
-b) Vereinseigentum nachweislich zurückgefordert, aber noch nicht zurückgegeben wurde oder
-
-c) rechtskräftige Vereinsstrafen vor dem Antrag auf Spielberechtigungswechsel verhängt und innerhalb einer Woche seit Verhängung offiziell mitgeteilt worden sind.
-
-d) Die Person bei der es bei dem Wechsel geht, versichert nicht wechseln zu wollen.
-
-Sie kann sich auf höchstens zwölf Monate erstrecken. Der Spieler kann innerhalb von sieben Tagen nach Kenntnisnahme gegen die Freigabeverweigerung Einspruch einlegen. Die Freigabeverweigerung erstreckt sich allein auf die Spielberechtigung bei Mannschaftsspielen des neuen Vereins; für Einzelturniere ist der Spieler sofort für den neuen Verein spielberechtigt.
-
-(4) Der Vereinswechsel eines Jugendlichen kann nur mit Einwilligung der/des Erziehungsberechtigten erfolgen.
+(4) Die Umschreibung eines Jugendlichen kann nur mit Einwilligung der/des Erziehungsberechtigten erfolgen. Der beantragende Verein muss sich um die Erklärung kümmern.
 
 ### § 10 Wartezeit
 
