@@ -245,9 +245,9 @@ r) Genehmigungsvermerk.
 (4) Die Spieler erkennen mit der Abgabe der Meldung die Ausschreibung und die Anordnungen der zuständigen
 Personen an. Einsprüche sind erst nach dem Turnier zu bewerten.
 
-(5) Nachmeldungen werden nur noch berücksichtigt, wenn sie am Donnerstag vor dem Wochenende bis 22.00 Uhr elektronisch beim Jugendwart eingehen und in dem vorgesehenen Wettkampfsystem noch Plätze frei sind. Es entscheidet der zeitliche Eingang der Meldungen beim Jugendwart.mt. Ein Anspruch auf Rückerstattung besteht nicht. Vereine haften für ihre Spieler.
+(5) Nachmeldungen werden nur noch berücksichtigt, wenn sie am Donnerstag vor dem Wochenende bis 22.00 Uhr elektronisch beim Jugendwart eingehen und in dem vorgesehenen Wettkampfsystem noch Plätze frei sind. Es entscheidet der zeitliche Eingang der Meldungen beim Jugendwart. Ein Anspruch auf Rückerstattung besteht nicht. Vereine haften für ihre Spieler.
 
-Für die Nachmeldung ist eine Gebühr nach III.A Nr.5 gemäß Anlage zur Finanz-und Kassenordnung des Badminton-Landesverbandes e.V. zu zahlen. Die Zahlung der Gebühr ist Voraussetzung für die Teilnahme am Wettkampf. Der Betrag ist vor dem Turnierbeginn durch den Ausrichter einzuziehen. Der Ausrichter haftet für den ordnungsgemäßen Einzug.
+Für die Nachmeldung ist eine Gebühr nach III.A Nr.5 gemäß Anlage zur Finanz- und Kassenordnung des Badminton-Landesverbandes e.V. zu zahlen. Die Zahlung der Gebühr ist Voraussetzung für die Teilnahme am Wettkampf. Der Betrag ist vor dem Turnierbeginn durch den Ausrichter einzuziehen. Der Ausrichter haftet für den ordnungsgemäßen Einzug.
 
 ### § 22 Auslosung
 
