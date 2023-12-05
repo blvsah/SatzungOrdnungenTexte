@@ -1,6 +1,6 @@
 # Finanz- und Kassenordnung Anlage (Finanzsätze)
 
-**Stand: 6. Mai 2023**
+**Stand: 1. Januar 2024**
 
 ## I. Erstattungen für das Präsidium
 
@@ -95,15 +95,15 @@ Bei Überschreitung der festgesetzten Einzahlungsfrist der 3. Mahnung erfolgt ei
 
 ||| Euro |
 |---:|---|---:|
-| 1. | Landesebene U22, O19, O35+ | 7,00 |
-| 2. | Landesebene Schüler/Jugend | 4,00 |
-| 3. | Regionalebene Schüler/Jugend | 4,00 |
+| 1. | Landesebene U22, O19, O35+ | 9,00 |
+| 2. | Landesebene Schüler/Jugend | 6,00 |
+| 3. | Regionalebene Schüler/Jugend | 6,00 |
 
 ## VII. Ungenutzt
 
 ## VIII. Abrechnung von offiziellen Wettkämpfen des BLSA
 
-**A.** Der BLSA stellt den Ausrichtern eine Gebühr von 25% des Meldegeldes in Rechnung. Das Meldegeld wird aufgrund aller Meldungen errechnet.
+**A.** Der BLSA stellt den Ausrichtern eine Gebühr von 30% des Meldegeldes in Rechnung. Das Meldegeld wird aufgrund aller Meldungen errechnet.
 
 ## IX. Überregionale Wettkämpfe im Interesse des BLSA
 
