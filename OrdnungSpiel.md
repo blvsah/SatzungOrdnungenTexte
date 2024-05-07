@@ -470,11 +470,7 @@ Jugendliche der Altersklassen U19, U17 und U15-2 (älterer U15 Jahrgang) dürfen
 
 ### § 48 Einsatz von Ausländern und Staatenlosen
 
-(1) Jeder Verein darf in der Rangliste beliebig viele Spieler mit EU-Staatsangehörigkeit melden. Der Einsatz dieser Spieler unterliegt keiner Beschränkung.
-
-(2) Jeder Verein darf in der Rangliste maximal drei Spieler ohne EU-Staatsangehörigkeit melden. Es darf in einer Mannschaft höchstens ein Spieler je Mannschaftswettkampf ohne EU-Staatsangehörigkeit eingesetzt werden. Auf Antrag kann das Präsidium den Einsatz eines weiteren Spielers ohne EU-Staatsangehörigkeit genehmigen. Die Genehmigung gilt nur für jeweils eine Saison und ist vor dem Beginn der Punktspiele einzuholen. Wenn sie erst nach dem ersten Punktspiel erfolgt, gilt sie für die Rückrunde.
-
-(3) Ausländer, die mindestens fünf Jahre ununterbrochen die Spielberechtigung für deutsche Badmintonvereine haben, werden nicht mehr als Ausländer im Sinne dieser Spielordnung betrachtet. Der Nachweis muss mit der Meldung vorgelegt werden.
+(1) Der Einsatz von EU-Staatsangehörigen, Spielern ohne EU-Staatsangehörigkeit und Staatenlosen unterliegt im BLSA keinerlei Begrenzung. Maßgeblich ist das Vorhandensein einer gültigen Spielberechtigung.
 
 **4.** Mannschaftsaufstellung
 
