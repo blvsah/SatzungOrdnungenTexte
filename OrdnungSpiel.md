@@ -73,7 +73,7 @@ dem das Turnier stattfindet. Der Stichtag zum Wechsel der Altersklasse liegt als
 
 (1) Im gesamten Spielbetrieb des BLSA (außer bei Freundschaftsspielen) sind nur Spieler zugelassen, die im Besitz einer gültigen Spielberechtigung sind.
 
-(2) Zum Nachweis der Spielberechtigung erhält jeder Verein eine Spielberechtigungsliste, die in Verbindung mit dem Personalausweis gültig ist und auf Verlangen der Turnierleitung zur Prüfung vorzulegen ist. Kann sich ein Spieler auch nachträglich nicht ausweisen oder seine Spielberechtigung nicht nachweisen, so gilt der Spieler beziehungsweise die Mannschaft, die den Spieler aufstellte, als nicht angetreten.
+(2) Zum Nachweis der Spielberechtigung erhält jeder Verein eine Spielberechtigungsliste. Auf Wettkämpfen müssen sich Spielende zur Identitätsfeststellung ausweisen können. Bei Turnieren ist die Spielberechtigung durch die online Meldung nachgewiesen, bei Punktspielen ist die aufstellende Mannschaft in der Verantwortung, dass die Spielberechtigung gültig ist. Können sich Spielende auch nachträglich nicht ausweisen oder eine Spielberechtigung ist zum Wettkampfzeitpunkt nicht mehr gültig, so gilt die Person beziehungsweise die Mannschaft als nicht angetreten.
 
 (3) Zuständig für die Ausstellung, Änderung und Streichung der Spielberechtigung ist die Geschäftsstelle des BLSA.
 
