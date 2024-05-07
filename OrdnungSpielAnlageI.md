@@ -1,176 +1,254 @@
-# Spielordnung Anlage I (Ranglistenordnung Senioren)
+# Spielordnung Anlage I (Turnierbestimmungen für Individualturniere)
 
-**Stand: 22. April 2017**
+**Stand: 03. Mai 2024**
 
-### § 1 Anzahl
+Im Badminton-Landesverband Sachsen-Anhalt (BLSA) werden Ranglistenturniere (RLT) und Meisterschaftsturniere (MST) in verschiedenen Altersklassen und Ebenen (Landes- und Regionsebene) durchgeführt.
 
-(1) Der SpA vergibt die Veranstaltungen nach § 6 der SpO an ausrichtende Vereine. Die Ausrichtung dieser Veranstaltungen veröffentlicht der SpA rechtzeitig im amtlichen Organ des BLSA und schreibt diese als Bewerbungen aus. Über die Vergabe einer Veranstaltung entscheidet ein Gremium des BLA-Präsidiums.
+### § 1 Ebenen
 
-(2) Zur Förderung des Leistungsstandes führt der SpA jährlich bis zu vier Ranglistenturniere in den Einzeldisziplinen und Doppeldisziplinen durch. Des Weiteren stellt er eine Rangliste der stärksten Spieler/Innen in den jeweiligen Disziplinen auf.
+(1) Auf Landesebene werden Turniere der Kategorie C angeboten, auf Regionsebene Turniere der Kategorie D. Diese Einteilung ist dem DBV-Level-System angegliedert.
 
-(3) Der SpA kann unter bestimmten Voraussetzungen bis zu drei Turnieren von privaten Veranstaltern bzw. offenen Landesranglistenturnieren zu Wertungsturnieren ernennen. Die Wertungsturniere sind den offiziellen RLT in Bezug auf die Ranglistenwertung gleichgestellt.
+### § 2 Zulassungsvoraussetzung für Meldungen
 
-### § 2 Sporthalle
+(1) Bei RLT sind Personen mit aktiver Spielberechtigung im Verbandsgebiet des Deutschen Badminton Verbandes zur Meldung zugelassen. MST sind dagegen auf Personen mit aktiver Spielberechtigung im Badminton-Landesverband Sachsen-Anhalt begrenzt.
 
-Hinsichtlich der Ausrichtung gilt die CHECKLISTE, welche bei Notwendigkeit aktualisiert im BLSA-Handbuch für jede neue Saison veröffentlicht wird.
+### § 3 Meldungen
 
-Die wichtigsten Kriterien sind:
+(1) Die Meldungen erfolgen über turnier.de. Meldeberechtigt sind die Vereine mit ihrem zugewiesenen Account.
 
-- Ausstattung der Sporthalle
-- Spielfelder
-- Aufgaben des Ausrichters
-- Turnierleitung / - Ausschuss
-- Ablauf
+(2) Die Spielenden erkennen mit der Abgabe der Meldung die Ausschreibung und die Anordnungen der zuständigen
+Personen an. Einsprüche sind erst nach dem Turnier zu bewerten.
 
-(1) Es ist der Meldebogen (Kopie im BLSA-Handbuch) zu verwenden.
+(3) Bilden Spielende verschiedener Vereine eine Doppel- oder Mixedpaarung, muss die Meldung durch beide Vereine erfolgen.
 
-(2) Die Meldung hat nur durch den Verein an den Ausrichter zu erfolgen. Die Meldung zu den LEM ist an den Sportwart zu den senden. Siehe hierzu auch Ausschreibungen zu den LEM. Die richtigen Angaben der Spieler mit Name, Vorname, Geburtsdatum und Verein sind bei allen Spielern anzugeben. Die Meldefrist (Datum des Poststempels; bei Meldung per FAX und E-Mail am Meldetag bis 22:00 Uhr) ist einzuhalten.
+(4) Meldungen nach Meldeschluss (Nachmeldungen) liegen im ermessen des Veranstalters/Ausrichters. Sie sind nur möglich wenn es die Turnierkapazitäten zulassen. Es besteht kein Anspruch auf eine mögliche Meldung nach Meldeschluss.
 
-(3) Bilden Spieler verschiedener Vereine eine Doppelpaarung, so wird die Meldung nur anerkannt, wenn beide Vereine fristgemäß eine Meldung abgeben.
+(5) Für die Nachmeldung ist eine Ordnungsgebühr gemäß Finanz- und Kassenordnung des BLSA Anlage III. A. 5. zu zahlen. Sie wird den Vereinen durch den Veranstalter anhand des Meldezeitpunktes der in der Turnierdatei hinterlegt ist in Rechnung gestellt.
 
-(4) Es werden nur die termingerecht gemeldeten Spieler zugelassen. Spieler, die nachgewiesen unverschuldet verspätetet zum RLT eintreffen, können in diesem Fall nur noch entsprechend des aktuellen Spielverlaufs eingreifen.
+### § 4 Melde und Abmeldeschluss
 
-(5) Tritt ein Spieler bzw. eine Paarung zu einem Spiel nicht an, so erfolgt der Ausschluss
+(1) Die Meldungen haben am Freitag der Vorwoche des Turnierwochenendes bis 23:59 Uhr zu erfolgen. Abmeldungen sind bis Dienstag 23:59 Uhr kostenfrei möglich. Der Meldestand ist anschließend auf turnier.de einsehbar.
 
-(6) von der weiteren Teilnahme am Turnier. Dies trifft nicht bei Verletzungen zu.
+### § 5 Startfeldgrößen
 
-(7) Anlässlich der Veranstaltungen können, bevor die Einordnung in die Turnierübersichten erfolgt ist, aus gemeldeten restlichen (verbliebenen) Teilnehmern neue Doppelpaarungen zusammengestellt werden. Der Auslosungstermin ist zu beachten.
+(1) Die RLT und MST sind von der Teilnehmenden Anzahl nicht begrenzt.
 
-(8) Gehen für eine Disziplin weniger als drei Meldungen ein, wird die Disziplin abgesagt.
+(2) Sollten aus Hallenkapazitätsgründen die Größe der Startfelder verkleinert werden müssen, sollte darauf in der Ausschreibung hingewiesen werden. Spätestens nach dem Meldeschluss müssen die Startfeld Reduzierungen erklärt werden. Meldungen über der Begrenzung werden als Ersatz geführt und können bei Ausfall/Abmeldungen ins Startfeld nachrücken.
 
-(9) Alle gemeldeten Spieler/Innen müssen in der Sporthalle am Turniertag anwesend sein.
+(3) Lassen es die Hallenkapazitäten zu, kann bei einem RLT auch ein weiteres Startfeld der Klasse eröffnet werden mit der Kategorie einer Ebene tiefer. Bei C-Turnieren wird also ein zweites Feld mit der Kategorie D eröffnet. Bei D-Turnieren ein weiteres Feld der Kategorie E. Dies kann auch bereits mit der Ausschreibung bekannt gemacht werden.
 
-### § 3 Startgebühren
+### § 6 Ranking
 
-Die Vereine entrichten während des Turnieres die Startgebühren entsprechend ihrer abgegebenen Meldungen beim Ausrichter. Es gilt die aktuelle Finanzordnung des BLSA bzw. Ausschreibung des Veranstalters/Ausrichters.
+(1) Bei Nachwuchsturnieren gilt das DBV-Ranking U19, bei Erwachsenen Turnieren (U22, O19, O35+) das DBV-Ranking O19.
 
-### § 4 Bälle
+(2) Die Turnierergebnisse werden in diesen Rankings gewertet. Der DBV hat die Möglichkeit einzelne Spielende oder auch ganze Turniere aus der Wertung zu nehmen. Aus der Nichtwertung ergeben sich keinerlei Rechtsansprüche gegenüber dem BLSA und dem DBV.
 
-Gespielt wird mit für BLSA-Veranstaltungen zugelassenen Federbällen. Die Ballzulassungsliste ist für die laufende Saison für die laufende Saison ist im BLSA-Handbuch S-A und im Internet veröffentlicht.
+### § 7 Startfeldzusammensetzung
 
-Die Ballsorte bestimmt das BLSA-Präsidium auf Vorschlag des SpA bzw. überträgt das Vorschlagsrecht dem Ausrichter.
+(1) Bei RLT sind pro Startfeld **mindestens** 4 Startende aus anderen Bundesländern zuzulassen. Die MST sind auf Startende aus Sachsen-Anhalt begrenzt.
 
-(1) Die Teilnehmer stellen die Bälle selbst. Es erfolgt Ballteilung in allen Spielen.
+(2) Die Zusammensetzung ergibt sich nach DBV-Ranking Punkten (der zum Meldeschluss gültigen). Die Punktbesten kommen ins Starterfeld, bei Punktgleichheit zählt die bessere Einzelwertung. Besteht dabei immer noch Punktgleichheit zählt der Meldeeingang. Dies wird direkt nach dem Meldeschluss durchgeführt.
 
-(2) Ab dem Finale stellt der Veranstalter 2 Bälle in den Einzel- und Doppeldisziplinen.
+(3) Sind in den Doppel und Mixed Disziplinen mehrere Freimeldungen vorhanden, werden diese zusammengelegt. Die jeweils Punktbesten werden dabei zusammengefügt. Erst danach wird die Startfeldzusammensetzung ermittelt.
 
-### § 5 Zulassung
+### § 8 Spielsysteme
 
-(1) Landesrangliste A / Einzel
+(1) Bei RLT wird möglichst das Ranglistensystem 16/5 gespielt. Alle Plätze werden ausgespielt. In der Trostrunde kann also noch der 5. Platz erreicht werden. Bei nur 6 Teilnehmenden kann je nach Zeitkapazität ein Gruppensystem (Jeder gegen Jeden) gespielt werden, ab 5 Teilnehmenden wird ein Gruppensystem gespielt.
 
-Es besteht freie Meldung für alle BLSA-Mitgliedsvereine.
+(2) Der Turnierausschuss entscheidet ob aus Teilnehmenden-/Zeitkapazitäten abweichende Spielsystem nötig sind. Möglich sind Ranglistensysteme mit Trostrunde nach dem ersten Spiel, sowie einfach KO-System.
 
-(2) Landesrangliste A / Doppeldisziplinen
+(3) Meisterschaften werden im einfachen KO-System ausgespielt. Ausnahme bildet hier die Klasse U11, diese wird wie bei Ranglistenturnieren gespielt. Bei Zeitkapazitäten kann auch bei anderen Altersklassen vom einfachen KO-System abgewichen werden.
 
-Die Durchführung erfolgt gemeinsam in wechselnder Folge mit den Einzeldisziplinen. LRT HE, DE und Mixed; LRT HE, DE, HD und DD.
+### § 9 Setzungen
 
-Es besteht für die Doppeldisziplinen eine freie Meldung durch die Vereine.
+(1) Setzplätze werden nach dem jeweils gültigen DBV-Ranking zum Zeitpunkt des Meldeschlusses vergeben. Es werden die Hälfte der Teilnehmenden gesetzt. Bei ungerader Meldeanzahl wird abgerundet.
 
-(3) Landesrangliste B / Einzel- und Doppeldisziplinen
+(2) Die Setzungen haben an die Positionen im Turnierbaum wie im DBV üblich gesetzt zu werden (§ 29 (6) DBV Jugendspielordnung Anlage I: Ranglistenbestimmungen). Dies gilt für alle Altersklassen.
 
-Es besteht von den Vereinen eine freie Meldung. Die Plätze 1-20 der LR A sind nicht startberechtigt. Einzelheiten der Meldungen siehe bei der jeweiligen Kurzausschreibung. Die Plätze 1-4 im HE und DE sind für das nächstfolgende LRT A qualifiziert.
+(3) Sofern Rasten zu verteilen sind, gehen diese an die Positionen der Gegner der Setzplätze, beginnend mit Setzplatz 1.
 
-(4) Landesrangliste C ab 40 Jahre und älter / Einzel und Doppel
+### § 10 Anwesenheit
 
-Es besteht von den Vereinen eine freie Meldung. Die Plätze 1-20 der LR A sind nicht startberechtigt.
+(1) Spielende, die nicht 30 Minuten vor dem in der Ausschreibung festgesetzten oder nachträglich mitgeteilten Disziplinbeginn Anwesend sind, werden von der Teilnahme ausgeschlossen. Das selbe gilt für Spielende, die nicht fünf Minuten nach dem zweiten Aufruf spielbereit sind.
 
-(5) Landesrangliste D / Einzel und Doppel
+(2) Erfolgt eine Absage nicht bis 30 Minuten vor dem angesetzten Disziplinbeginn ist dies eine Nichtabsage und es wird eine Ordnungsgebühr gemäß Finanz- und Kassenordnung des BLSA Anlage III. A. 6. verhängt, und dem jeweiligen Verein in Rechnung gestellt.
 
-Es besteht von den Vereinen eine freie Meldung. Die LRT D sind ausschließlich für Breitensportler, Hobbyspieler und Spieler zugelassen, die sich seit 5 Jahren nicht mehr am Punkt- und Pokalspielbetrieb beteiligt haben.
+### § 11 Auslosung
 
-Spieler der Hobbyspielklassen Stadtliga Magdeburg und Neubildung anderer unterer Spielklassen sind startberechtigt. Die Spielstärke wird vom SpA jedoch überprüft.
+(1) Die Auslosung wird so vorgenommen, dass auf Landesebene möglichst keine Spielenden aus der gleichen Region in der ersten Runde gegeneinander gelost werden. Auf Regionalebene werden Spielende aufgrund des Vereines möglichst nicht in der ersten Runde gegeneinander gelost.
 
-An den LRT D können sich auch Spieler/innen aus den Vereinen beteiligen, welche nicht dem BLSA angeschlossen sind. Zu beachten ist hier ein erhöhtes Meldegeld, siehe Finanzordnung des BLSA.
+(2) Die Auslosung wird 30 Minuten vor Spielbeginn in der Wettkampfstätte durchgeführt. Es werden nur anwesende Spielende mit in die Auslosung aufgenommen. Das Ergebnis der Auslosung ist danach öffentlich zu machen. Es ist durch eine Durchsage in der Sporthalle deutlich zu machen, dass die Auslosung erfolgen wird, damit Personen die der Auslosung beiwohnen möchten, dies können.
 
-### § 6 Eingruppierungen / Setzen der Spieler
+(3) Fallen vor Beginn einer Wettkampfklasse (z.B. Jungeneinzel U13) Spielende aus, muss die Auslosung für die betreffende Klasse erneut durchgeführt werden. Setzplätze ggf. korrigiert werden.
 
-(1) Es werden in den Einzeldisziplinen die Teilnehmer 1 bis 8 der aktuell gültigen Rangliste in die Viertel gesetzt.
+### § 12 Meldegeld
 
-(2) In den Doppeldisziplinen werden die Teilnehmer 1 bis 24 der aktuell gültigen Landesrangliste in die einzelnen Viertel gesetzt. Es wird die jeweilige Platzziffer der beiden Doppelpartner zusammengerechnet. Haben zwei Spieler (die Doppelpaarung) gleiche Platzziffern, hat das bessere Ergebnis des letzten LRT den Vorrang. Ein Rechtsanspruch gesetzt zu werden, besteht nicht.
+(1) Alle zum Zeitpunkt des Abmeldeschlusses startberechtigten Spielenden haben das Meldegeld zu entrichten.
 
-### § 7 Auswertung der Spielsysteme
+(2) Nachrückende z.B. Freimeldungen im Doppel oder Mixed müssen erst das Meldegeld bezahlen, wenn sie noch ins Startfeld vorrücken. Das entbindet Spielende die herausfallen nicht von ihrer Pflicht das Meldegeld zu bezahlen.
 
-(1) K.-o.-System
+(3) Das Meldegeld wird Vereinsweise an den Ausrichter vor Ort in Bar gezahlt.
 
-Die Verlierer der einzelnen Spiele scheiden aus.
+(4) Ziehen ganze Vereine nach dem Abmeldeschluss ihre Teilnehmenden vom Turnier zurück ist der Ausrichter berechtigt seine Forderung dem Verein gegenüber per Rechnung einzufordern. Es gilt die aktuelle Finanzordnung des BLSA.
 
-(2) K.-o.-System mit Ausspielen der Plätze
+### § 13 Spielergebnisse, Ausschluss
 
-Die Sieger der jeweiligen Runde spielen die vordere Hälfte der Plätze aus, die Verlierer die hintere Hälfte.
+(1) Bei einer Disqualifikation oder Verletzung in einem Turnier, bei dem allein Sieg oder Niederlage von Bedeutung sind, ist der Spielstand bei Abbruch zu notieren mit dem entsprechenden Zusatz "disqualifiziert" oder "aufgegeben" (retired).
 
-(3) Doppel K.-o.-System
-
-Die Verlierer, welche zweimal in der jeweiligen Disziplin ein Spiel verloren haben, scheiden aus. Die Finalisten auf der Gewinnerseite spielen Platz 1 und 2 aus. Der Gewinner ist Erster, der Verlierer des Finalspieles ist Zweiter.
-
-(4) Doppel K.-o.-System mit Ausspielen der Plätze
-
-Ausspielen der Plätze in den jeweiligen Runden der Verliererseite des normalen K.-o.-Systems.
-
-(5) Gruppenspiele
-
-Bei weniger als 8 Teilnehmern im Einzel wird in einer (bis 5 Teilnehmer) oder in zwei Gruppen (ab 6 Teilnehmern) gespielt. Die Gruppenersten, -zweiten, -dritten, -vierten ermitteln im Spiel gegeneinander die Plätze aus.
-
-Die Durchführung aller Disziplinen erfolgt im Doppel-K.-o.-System; bei mehr als 24 Teilnehmern im Einfach K.-o.-System. Wird an einem Spieltag HE, DE und GD oder HE, DE und die beiden Doppeldisziplinen HD und DD bei den LRT A gemeinsam zur Spieldurchführung ausgeschrieben, wird die Disziplin im GD bzw. HD und DD im Einfach K.-o.-System ausgespielt. Die Regelung bei den LRT B, C und D erfolgt durch die Turnierleitung vor Beginn des Turnieres und richtet sich nach den Eingang der Meldungen und Anzahl der Spielfelder.
-
-### § 8 Ranglistenwertung
-
-Die Rangliste der Senioren wird in den Disziplinen HE, DE, HD, DD und GD durchgeführt. Die Durchführung im Bundesland Sachsen-Anhalt wird auf einen Spieltag beschränkt. Somit keine anfallenden Quartierkosten und nur eine An- und Rückfahrt zum Spielort.
-
-(1) Es werden in jeder Saison mindestens vier LRT in den Einzel- und Doppeldisziplinen ausgeschrieben. Die Austragungen der Disziplinen können variieren.
-
-(2) Die Landeseinzelmeisterschaft in allen Disziplinen wird in die Ranglistenwertung einbezogen. Diese findet grundsätzlich an zwei Tagen statt. Alle Disziplinen werden im Einfach-KO.-System ausgetragen. (Anm: Sind die Disziplinlisten nur geringfügig besetzt, wird nach Meldeschluss durch ein Gremium über eine Ein-Tagesdurchführung entschieden.)
-
-(3) Es wird eine fortlaufende Wertung über die Jahre und Saison geführt. Es kommen immer die letzten 5 Turniere in die Wertung. Die beiden schlechtesten Wertungen werden gestrichen. Aus der Addition der restlichen 3 Wertungen ergibt sich die aktuelle Gesamtpunktzahl.
-
-### § 9 Wertungspunkte (Gültigkeit für alle LEM, LRT, Regionalbereiche)
-
-|||Platz|Punkte|
-|----|----|:----|-----:|
-| Sieger | Finale | 1 | 100 |
-| Ausscheiden | Finale | 2 | 90 |
-| Ausscheiden | Halbfinale | 3 | 85 |
-|  |  | 4 | 80 |
-| Ausscheiden | Viertelfinale | 5 | 75 |
-|  |  | 6 | 70 |
-|  |  | 7 | 68 |
-|  |  | 8 | 66 |
-| Ausscheiden | Achtelfinale | 9 | 64 |
-|  |  | 10 | 62 |
-|  |  | 11 | 60 |
-|  |  | 12 | 58 |
-|  |  | 13 | 56 |
-|  |  | 14 | 54 |
-|  |  | 15 | 52 |
-|  |  | 16 | 50 |
-| Ausscheiden | Runde der Letzten 32 | 17 | 48 |
-|  |  | 18 | 46 |
-|  |  | 19 | 44 |
-|  |  | 20 | 42 |
-|  |  | 21 | 40 |
-|  |  | 22 | 38 |
-|  |  | 23 | 36 |
-|  |  | 24 | 34 |
-|  |  | 25 | 32 |
-|  |  | 26 | 30 |
-|  |  | 27 | 28 |
-|  |  | 28 | 26 |
-|  |  | 29 | 24 |
-|  |  | 30 | 22 |
-|  |  | 31 | 20 |
-|  |  | 32 | 18 |
-| Ausscheiden | Runde der letzten 64 | 33 | 16 |
-|  |  | 34 | je Platz –2 |
-
-Bemerkung: Die Plätze der Landesrangliste B im HE und DE erhalten die Punkte ab Platz 21
-
-| Max. Teilnehmer | HE | DE | HD | DD | GD |
-|-----------------|----|----|----|----|----|
-| LEM   | freie Meldung | freie Meldung | freie Meldung | freie Meldung | freie Meldung |
-| LRT A | freie Meldung | freie Meldung | freie Meldung | freie Meldung | freie Meldung |
-| LRT B | freie Meldung | freie Meldung | freie Meldung | freie Meldung | freie Meldung |
-| LRT C | freie Meldung | freie Meldung | freie Meldung | freie Meldung | freie Meldung |
-
-### § 10 Veröffentlichung
-
-Alle Landesranglistenwertungen im Internet auf der BLSA-Homepage www.blsa.de / Ranglisten und in den
-Presseorganen der regionalen Kommunen veröffentlicht.
+(2) Treten Spielende zu einem Spiel nicht an, erfolgt der Ausschluss von der weiteren Teilnahme in dieser Disziplin. Der Spielstand wird als "Walkover" eingegeben.
+
+(3) In einem Turnier, bei dem auch das Satzergebnis von Bedeutung ist, wird der Spielstand
+
+a) bei Disqualifikation/Walkover zu 0 als Gewinn für den Gegner gesetzt (z.B. 21:0 21:0),
+
+b) bei Verletzung zum Satzgewinn des Gegners aufgefüllt. Ein dadurch eventuell folgender Satz wird je nach Zählweise zu 0 angefügt (z.B. 21:0).
+
+## Ausrichterpflichten
+
+### § 14 Ergebnisse
+
+(1) Die Spielenden müssen den Turnierverlauf anhand von Turnierbäumen verfolgen können. Diese müssen im Internet auf einem aktuellen Stand gehalten werden oder alternativ in der Sporthalle laufend aktuell angeschlagen werden.
+
+### § 15 Abwicklung
+
+(2) Der Ausrichter hat das Turnier auf seine Kosten auszurichten. Notwendigen Materialien für das Turnier sind zu stellen.
+
+Materialien sind u.a.:
+
+* Laptop mit dem aktuellem Badminton Turnier Planer von turnier.de (Lizenz stellt der Verband)
+* Drucker und Papier
+* Schreibunterlagen für Ergebniszettel oder digitale Eingabemöglichkeiten
+* Spielstandanzeigen
+* Preise: Urkunden und Medaillen oder Pokale
+
+### § 16 Veröffentlichen der Turnierergebnisse
+
+(1) Am letzten Turniertag ist der endgültige Stand des Turnieres im Internet zu veröffentlichen. Auf das nicht rechtzeitige Veröffentlichen steht eine Ordnungsgebühr gemäß Finanz- und Kassenordnung des BLSA Anlage III. A. 2.
+
+(2) An den Verband mitzuteilen sind ggf. Spielende die ohne Absage nicht angetreten sind, damit den jeweiligen Vereinen die Ordnungsgebühr in Rechnung gestellt werden kann.
+
+(3) Der Ausrichter erhält nach dem Turnier eine Rechnung über die Ausrichter Gebühr gemäß Finanz- und Kassenordnung des BLSA Anlage VIII. A.
+
+## Organisatorisches
+
+### § 17 Spielstandanzeigen
+
+(1) Alle Spielenden sind verpflichtet, sich für die Bedienung einer Spielstandanzeige am Feld zur Verfügung zu stellen, es sei denn, er kann Ersatz für sich stellen.
+
+(2) Ausgeschiedene Spielende können nur eingesetzt werden, wenn ihr Einsatz vor Ablauf einer Stunde nach dem Ausscheiden möglich ist.
+
+### § 18 Ausschreibung
+
+(1) Ausschreibungen zu den Turnieren werden vom Spiel- beziehungsweise Jugendausschuss veröffentlicht. Sie sind den Vereinen spätestens zwei Monate vor dem Austragungstermin über die Internetseite bekannt zu geben.
+
+(2) Die Ausschreibung hat folgende Punkte zu enthalten:
+
+a) Turnierbezeichnung,
+
+b) Veranstalter und Ausrichter,
+
+c) Austragungsort (mit Anschrift) und Anzahl der verfügbaren Spielfelder,
+
+d) Veranstaltungstermin und Spielbeginn, sowie ggf. Reihenfolge der Disziplinen,
+
+e) Hinweis zur Auslosung,
+
+f) Hinweis zur Zulassungsvoraussetzung für Meldungen,
+
+g) Klasseneinteilung,
+
+h) Hinweis auf Spielsysteme,
+
+i) Hinweis auf Regelungen zu Spielbällen,
+
+j) Hinweis zur Meldung und Veröffentlichung der Teilnehmendenfelder, incl. turnier.de Link
+
+k) Tag und Zeit des Meldeschlusses,
+
+l) Tag und Zeit des Abmeldeschlusses,
+
+m) Meldegebühren,
+
+n) weitere Hinweise,
+
+o) Ausrichterkontakt,
+
+p) Veranstalterkontakt,
+
+q) Vorbehalte zur Änderung der Ausschreibung,
+
+r) Hinweise zum Datenschutz/Veröffentlichung von Bildmaterial,
+
+s) Hinweis auf Gültigkeit der BLSA Turnierbestimmungen.
+
+### § 19 Turnierausschuss
+
+(1) Der Turnierausschuss besteht aus einem Vertreter des Veranstalters (Turnierverantwortlicher) als Vorsitzendem, einem Vertreter des Ausrichters (Turnierleiter) und dem Oberschiedsrichter (Referee). Er überwacht die Einhaltung der Ausschreibung, die Auslosung und die sportliche Abwicklung des Turniers. Er hat die Pflicht unsportliches Verhalten und den Sport schädigende Handlungen sofort zu unterbinden.
+
+(2) Der Turnierleiter ist für die Abwicklung des Turniers, insbesondere für die Einhaltung des Zeitplanes, verantwortlich. Er hat für einwandfreie sportliche Verhältnisse zu sorgen.
+
+(3) Als Referee ist eine neutrale, mit den internationalen Regeln vertraute Person einzusetzen. Der Referee überwacht die Spielbedingungen, die Einhaltung der Spielregeln, den Einsatz der Spielstandanzeigenbedienenden sowie ggf. Schiedsrichter und ist für alle sich hieraus ergebenden Fragen zuständig.
+
+(4) Die Spielenden haben den Weisungen des Turnierausschusses Folge zu leisten.
+
+### § 20 Zeitpunkt der Meisterschaften
+
+(1) Meisterschaften des BLSA werden jährlich so ausgetragen, dass die Einhaltung des Meldeschlusses für die nächst höhere Ebene gewährleistet ist.
+
+### § 21 Bälle
+
+(1) Die Ballsorte für die Meisterschaften bestimmt der Spiel-/ bzw. Jugendausschusses. Der Ausrichter hat ein Vorschlagsrecht. Bei RLT können Federbälle der entsprechenden Ballkategorie des Ballpools verwendet werden. Der Ausrichter hält Bälle zum Kauf bereit.
+
+(2) Die Teilnehmenden stellen die Bälle selbst. Es erfolgt Ballteilung in allen Spielen.
+
+### § 22 Anzahl der Turniere/Altersklassen
+
+(1) Der Spiel-/Jugendausschuss vergibt die Veranstaltungen nach § 6 der SpO an ausrichtende Vereine. Die Veranstaltungen werden auf der Internetseite des BLSA zur Ausrichterbewerbung veröffentlicht. Über die Vergabe entscheidet der Spiel- und Jugendausschuss.
+
+(2) Zur Förderung des Leistungsstandes führen die Ausschüsse folgende Turniere durch:
+
+a) MST in allen Altersklassen im Einzel, Doppel, Mixed einmal im Jahr
+
+b) RLT in U11-U19 und O19 im Einzel, Doppel, Mixed mehrfach im Jahr
+
+(3) In weitere Altersklassen können RLT bei Bedarf ausgerichtet werden.
+
+(4) Das Zusammenlegen von Altersklassen ist nur zulässig, wenn eine Altersklasse nicht spielbar ist. Dabei gilt es zu beachten, dass es bei Klassenzusammenlegungen zu Nichtwertungen für das Ranking kommen kann. U15 und jünger dürfen bei Jugendranglistenturnieren nur eine Altersklasse höher spielen.
+
+(5) Im Falle von fehlenden Ausrichtern entfallen die jeweiligen Turniere
+
+### § 23 Sporthalle/Vorgaben für die Ausrichtung
+
+(1) Hinsichtlich der Sporthallenanforderungen gilt:
+
+a) mindestens 6 Spielfelder
+
+b) Die Spielfelder müssen fehlerfrei, rutschfest und die Markierungen deutlich erkennbar sein
+
+c) Spielfelder benötigen die entsprechenden Abständen gemäß der Spielregeln.
+
+d) Das Tages- und Kunstlicht muss den Spielraum ausreichend, gleichmäßig und blendfrei ausleuchten.
+
+e) Fenster und Lichtwände sind gegen Lichteinwirkung abzudunkeln.
+
+f) Die Beheizung und Belüftung der Sporthalle muss ohne behinderndes Gebläse gewährleistet sein.
+
+g) Für Teilnehmende des Turniers müssen genügend Umkleide- und Duschräume vorhanden sein.
+
+(2) Technische Ausstattung der Sporthalle:
+
+a) Spielstandanzeigen an jedem Feld
+
+b) Ein Teil des Zuschauerraumes ist während des gesamten Turniers für Teilnehmende und deren Betreuende zu reservieren.
+
+c) Leistung von 1. Hilfe muss gewährleistet sein. Material zum Kühlen muss vorhanden sein (Eisspray oder Kühlkompressen).
+
+d) Lautsprecheranlage, möglichst auch in der Umkleidekabine hörbar.
+
+(3) Personelle Besetzung
+
+a) Es müssen mindestens 2 Personen des Ausrichters als Turnierleitung fungieren.
+
+b) Bedienende der Spielstandanzeigen: Teilnehmende und/oder vom Ausrichter gestellt
+
+(4) Soweit hier nicht vermerkt, gelten ferner die Bestimmungen der Satzung und Ordnungen sowie die Spielregeln des Veranstalters in der jeweiligen gültigen Fassung. Abweichungen von diesen Richtlinien sind nur mit ausdrücklicher Genehmigung des Sport- bzw.Jugendausschusses möglich.

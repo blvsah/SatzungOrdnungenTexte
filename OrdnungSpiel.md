@@ -127,19 +127,17 @@ Spieler können vom BLSA bis zu zwei Jahre gesperrt werden. Während einer Sperr
 
 ## C. Veranstaltungen des BLSA
 
-### § 12 Turniere, Meisterschaften, Ranglisten
+### § 12 Wettkämpfe
 
-Der BLSA ist Veranstalter für folgende innerhalb einer Spielsaison durchzuführende Wettkämpfe:
+(1) Der BLSA ist Veranstalter für folgende durchzuführende Wettkämpfe:
 
-a) Landeseinzelmeisterschaften für alle Altersklassen,
+a) Individualturniere
 
-b) Ranglistenturniere,
+b) Mannschaftsmeisterschaften (Punktspiele) für Schüler, Jugend und Erwachsene.
 
-c) Mannschaftsmeisterschaften für Schüler, Jugend und Senioren,
+Die Termine dieser Wettkämpfe werden auf der Internetseite des BLSA veröffentlicht.
 
-d) Breitensportveranstaltungen.
-
-Die Termine dieser Wettkämpfe werden auf der Homepage des BLSA veröffentlicht.
+(2) Bestimmungen für Individualturniere sind in der Spielordnung Anlage I zu finden.
 
 ### § 13 Ausrichter
 
@@ -163,130 +161,9 @@ Dem Spielausschuss obliegt gemäß § 29 a) der Satzung des BLSA die Ahndung von
 
 ## D. Wettkampfbestimmungen
 
-*I. Einzelmeisterschaften*
+### § 16 - 26 Ungenutzt
 
-### § 16 Allgemeines
-
-(1) Einzelmeisterschaften des BLSA werden jährlich so ausgetragen, dass die Einhaltung des Meldeschlusses für die Norddeutschen Einzelmeisterschaften gewährleistet ist.
-
-(2) Alle Disziplinen werden im K.-o.-System ausgetragen. Bei weniger als acht Spielern/Paaren je Disziplin wird im Poolsystem (Rundenspiele, Jeder-gegen-Jeden) gespielt. Für die Altersklassen U11 und O35 – O75 können abweichende Regelungen getroffen werden.
-
-(3) Ausschreibungen zu den Einzelmeisterschaften werden vom Spiel- beziehungsweise Jugendausschuss herausgegeben. Sie sind den Vereinen spätestens acht Wochen vor dem Austragungstermin bekannt zu geben.
-
-(4) Die Meldung erfolgt über turnier.de. Meldeberechtigt sind die Vereine mit ihrem zugewiesenen Account.
-
-### § 17 Teilnahmeberechtigung
-
-(1) Für alle Disziplinen bei der Landeseinzelmeisterschaft O19 sind alle Spieler deutscher Staatsangehörigkeit, die einem dem BLSA angeschlossenen Verein angehören, zugelassen.
-
-(2) Teilnahmeberechtigt sind auch ausländische Staatsangehörige, für die eine Freigabe durch den BLSA erfolgt ist. Diese Freigabe erstreckt sich nur auf Wettkämpfe innerhalb des BLSA.
-
-*II. Einzelturniere*
-
-### § 18 Genehmigung
-
-Einzelturniere können von allen dem BLSA angeschlossenen Vereinen durchgeführt werden. Sämtliche Turniere bedürfen der Genehmigung des BLSA. Der Antrag sowie die Ausschreibung müssen in jeweils zweifacher Ausfertigung mindestens vier Wochen vor dem Austragungstermin dem Sportwart zur Entscheidung vorliegen.
-
-Einladungen und Ausschreibungen müssen den Vermerk "Genehmigt durch den BLSA" aufweisen und sind deshalb erst nach Befürwortung des BLSA an die teilnehmenden Spieler oder Vereine zu übersenden oder zu veröffentlichen.
-
-### § 19 Ausschreibung
-
-Die Ausschreibung hat folgende Punkte zu enthalten:
-
-a) Turnierbezeichnung,
-
-b) Veranstalter und Ausrichter,
-
-c) Veranstaltungstermin,
-
-d) Austragungsort und Anzahl der verfügbaren Spielfelder,
-
-e) Wettbewerbe und etwaige Klasseneinteilung,
-
-f) Benennung des Teilnehmerkreises,
-
-g) Tag und Zeit des Meldeschlusses,
-
-h) Anschrift, an die die Meldung zu erfolgen hat,
-
-i) Ballmarke und -sorte,
-
-j) Namen der Mitglieder des Turnierausschusses,
-
-k) Ort, Tag und Zeit der öffentlichen Auslosung,
-
-l) Meldegebühren und ggf. Bankverbindung, an die die Zahlung der Gebühren zu erfolgen hat,
-
-m) Austragungsmodus,
-
-n) Voraussetzungen zur Verteilung von Preisen, Wanderpreisen und Urkunden,
-
-o) Bestimmung über den Einsatz von Schiedsrichtern,
-
-p) Vorbehalte zur Änderung der Ausschreibung,
-
-q) ggf. Quartierhinweise,
-
-r) Genehmigungsvermerk.
-
-### § 20 Turnierausschuss
-
-(1) Der Turnierausschuss besteht aus einem Vertreter des Veranstalters als Vorsitzendem, einem Vertreter des Ausrichters (Turnierleiter) und dem Oberschiedsrichter. Er überwacht die Einhaltung der Ausschreibung, die Auslosung und die sportliche Abwicklung des Turniers. Er hat die Pflicht unsportliches Verhalten und den Sport schädigende Handlungen sofort zu unterbinden.
-
-(2) Der Turnierleiter ist für die Abwicklung des Turniers, insbesondere für die Einhaltung des Zeitplanes, verantwortlich. Er hat für einwandfreie sportliche Verhältnisse zu sorgen.
-
-(3) Als Oberschiedsrichter ist eine neutrale, mit den internationalen Regeln vertraute Person einzusetzen. Der Oberschiedsrichter überwacht die Spielbedingungen, die Einhaltung der Spielregeln, den Einsatz der Schiedsrichter und ist für alle sich hieraus ergebenden Fragen zuständig.
-
-(4) Die Spieler haben den Weisungen des Turnierausschusses Folge zu leisten.
-
-### § 21 Meldung
-
-(1) Die Meldung erfolgt über turnier.de. Meldeberechtigt sind die Vereine mit ihrem zugewiesenen Account. Bei privaten Turnieren entscheidet der Ausrichter über den Meldevorgang.
-
-(2) Die Meldungen haben am Samstag vor dem Wettkampfwochenende bis 20:00 Uhr zu erfolgen. Abmeldungen sind bis Dienstag 20:00 Uhr kostenfrei möglich. Der Meldestand ist anschließend auf turnier.de einsehbar.
-
-(3) Der Ausrichter ist berechtigt, eine Meldegebühr je Teilnehmer zu erheben. Jeder gemeldete Teilnehmer ist verpflichtet diese Gebühr zu entrichten, unabhängig davon, ob er zum Einsatz kommt. Ein Anspruch auf Rückerstattung besteht nicht. Vereine haften für ihre Spieler.
-
-(4) Die Spieler erkennen mit der Abgabe der Meldung die Ausschreibung und die Anordnungen der zuständigen
-Personen an. Einsprüche sind erst nach dem Turnier zu bewerten.
-
-(5) Nachmeldungen werden nur noch berücksichtigt, wenn sie am Donnerstag vor dem Wochenende bis 22.00 Uhr elektronisch beim Jugendwart eingehen und in dem vorgesehenen Wettkampfsystem noch Plätze frei sind. Es entscheidet der zeitliche Eingang der Meldungen beim Jugendwart. Ein Anspruch auf Rückerstattung besteht nicht. Vereine haften für ihre Spieler.
-
-Für die Nachmeldung ist eine Gebühr nach III.A Nr.5 gemäß Anlage zur Finanz- und Kassenordnung des Badminton-Landesverbandes e.V. zu zahlen. Die Zahlung der Gebühr ist Voraussetzung für die Teilnahme am Wettkampf. Der Betrag ist vor dem Turnierbeginn durch den Ausrichter einzuziehen. Der Ausrichter haftet für den ordnungsgemäßen Einzug.
-
-### § 22 Auslosung
-
-Die Auslosung hat öffentlich zu erfolgen. Das Ergebnis der Auslosung ist spätestens bei Turnierbeginn durch Aushang den Teilnehmern bekannt zu geben.
-
-### § 23 Schiedsrichter
-
-Jeder Spieler ist verpflichtet, das Amt des Schiedsrichters zu übernehmen, es sei denn, er kann Ersatz für sich stellen. Ausgeschiedene Spieler können nur eingesetzt werden, wenn ihr Einsatz vor Ablauf einer Stunde nach dem Ausscheiden möglich ist.
-
-### § 24 Turnierlisten
-
-(1) Die Spieler müssen den Verlauf des Turniers anhand von Turnierlisten verfolgen können. Die Listen müssen für jeden lesbar angeschlagen und auf einem aktuellen Stand gehalten werden.
-
-(2) Spätestens drei Tage nach Beendigung eines Turniers hat der Turnierausschuss die Turnierlisten mit allen Spielergebnissen dem Sportwart zuzusenden.
-
-### § 25 Wertung, Ausschluss
-
-(1) Bei einer Disqualifikation oder Verletzung in einem Turnier, bei dem allein Sieg oder Niederlage von Bedeutung sind, ist der Spielstand bei Abbruch zu notieren mit dem entsprechenden Zusatz "disqualifiziert" oder "verletzt aufgegeben". In einem Turnier, bei dem auch das Satzergebnis von Bedeutung ist, wird der Spielstand
-
-a) bei Disqualifikation auf 21:0, 21:0 für den Gegner gesetzt,
-
-b) bei Verletzung zum Satzgewinn des Gegners aufgefüllt. Ein dadurch eventuell folgender Satz wird mit 21:0 angefügt.
-
-(2) Tritt ein Spieler zu einem Spiel nicht an, erfolgt der Ausschluss von der weiteren Teilnahme an dem Turnier, es sei denn, die Nichtteilnahme erfolgte verletzungsbedingt. Spieler, die nicht 30 Minuten vor dem in der Ausschreibung festgesetzten oder nachträglich mitgeteilten Disziplinbeginn Anwesend sind, können von der Teilnahme ausgeschlossen werden. Dasselbe gilt für Spieler, die nicht fünf Minuten nach dem zweiten Aufruf spielbereit sind. Erfolgt eine Absage nicht bis 30min vor dem angesetzten Disziplinbeginn ist dies eine Nichtabsage und es wird eine Ordnungsstrafe verhängt.
-
-*III. Ranglistenturniere*
-
-### § 26 Ranglistenturniere
-
-(1) Der BLSA veranstaltet jährlich Ranglistenturniere, die nach den Anlagen I (Ranglistenordnung Senioren) und II (Ranglistenordnung Schüler und Jugend) zu dieser Spielordnung durchzuführen sind.
-
-(2) Für Ranglistenturniere können Kurzausschreibungen verwendet werden, welche die Punkte des § 19 a) - j) enthalten müssen.
-
-*IV. Überregionale Einzelmeisterschaften*
+*I. Überregionale Einzelmeisterschaften*
 
 ### § 27 Überregionale Meisterschaften
 
@@ -294,7 +171,7 @@ b) bei Verletzung zum Satzgewinn des Gegners aufgefüllt. Ein dadurch eventuell 
 
 (2) Für die Norddeutschen Einzelmeisterschaften der Schüler und Jugend bestimmt der Jugendausschuss sämtliche Teilnehmer.
 
-*V. Mannschaftsmeisterschaften*
+*II. Mannschaftsmeisterschaften*
 
 **1.** Allgemeines
 
