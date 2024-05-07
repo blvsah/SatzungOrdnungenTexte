@@ -28,41 +28,44 @@ Für den Spielbetrieb dürfen nur die vom BLSA zugelassenen Bälle verwendet wer
 
 ### § 6 Altersklassen
 
-(1) Die Spieler werden in folgende Altersklassen eingeteilt:
+(1) Die Spielenden werden in folgende Altersklassen eingeteilt:
 
-a) Schüler U11 bis zum vollendeten 11. Lebensjahr,
+a) Schüler U11: unter 11 Jahre,
 
-b) Schüler U13 bis zum vollendeten 13. Lebensjahr,
+b) Schüler U13: unter 13 Jahre,
 
-c) Schüler U15 bis zum vollendeten 15. Lebensjahr,
+c) Schüler U15: unter 15 Jahre,
 
-d) Jugend U17 bis zum vollendeten 17. Lebensjahr,
+d) Jugend U17: unter 17 Jahre,
 
-e) Jugend U19 bis zum vollendeten 19. Lebensjahr,
+e) Jugend U19: unter 19 Jahre,
 
-f) Junioren U22 bis zum vollendeten 22. Lebensjahr,
+f) Junioren U22: unter 22 Jahre,
 
-g) Senioren O19 nach vollendetem 19. Lebensjahr,
+g) Erwachsene O19: oberhalb 18 Jahre,
 
-h) Senioren O35 nach vollendetem 35. Lebensjahr,
+h) Senioren O35: oberhalb 35 Jahre,
 
-i) Senioren O40 nach vollendetem 40. Lebensjahr,
+i) Senioren O40: oberhalb 40 Jahre,
 
-j) Senioren O45 nach vollendetem 45. Lebensjahr,
+j) Senioren O45: oberhalb 45 Jahre,
 
-k) Senioren O50 nach vollendetem 50. Lebensjahr,
+k) Senioren O50: oberhalb 50 Jahre,
 
-l) Senioren O55 nach vollendetem 55. Lebensjahr,
+l) Senioren O55: oberhalb 55 Jahre,
 
-m) Senioren O60 nach vollendetem 60. Lebensjahr,
+m) Senioren O60: oberhalb 60 Jahre,
 
-n) Senioren O65 nach vollendetem 65. Lebensjahr,
+n) Senioren O65: oberhalb 65 Jahre,
 
-o) Senioren O70 nach vollendetem 70. Lebensjahr,
+o) Senioren O70: oberhalb 70 Jahre,
 
-p) Senioren O75 nach vollendetem 75. Lebensjahr.
+p) Senioren O75: oberhalb 75 Jahre.
 
-(2) Für alle offiziellen Turniere innerhalb des BLSA gilt als Stichtag zur Einstufung in die Altersklassen der auf den Beginn der Spielsaison folgende 1. Januar.
+(2) Zur Einteilung muss die in Abs. 1 genannte Bedingung für das gesamte Kalenderjahr erfüllt werden in
+dem das Turnier stattfindet. Der Stichtag zum Wechsel der Altersklasse liegt also am 01.01. eines jeden Jahres.
+
+(3) Für die Punktspielsaison zählt zur Einteilung der Altersklasse das Jahr, in dem die Spielsaison begonnen wird.
 
 ## B. Spielberechtigung
 
