@@ -99,7 +99,11 @@ Bei Überschreitung der festgesetzten Einzahlungsfrist der 3. Mahnung erfolgt ei
 | 2. | Landesebene Schüler/Jugend | 6,00 |
 | 3. | Regionalebene Schüler/Jugend | 6,00 |
 
-## VII. Ungenutzt
+## VII. Abrechnung von DBV-A/B Turnieren
+
+Ausrichter von überregionalen DBV Turnieren im Verbandsgebiet des BLSA müssen eine Turnierabgabe an den BLSA zahlen, die wiederum an den DBV weitergegeben wird.
+
+**A.** Der BLSA stellt den Ausrichtern eine Gebühr von 1,00 € pro Teilnehmer und Disziplin in Rechnung.
 
 ## VIII. Abrechnung von offiziellen Wettkämpfen des BLSA
 
