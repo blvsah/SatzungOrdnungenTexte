@@ -74,7 +74,7 @@ Die ordnungsgemäß einberufene Vollversammlung ist ohne Rücksicht auf die Anza
 
 ### § 9 Jugendausschuss des BLSA
 
-Der Jugendausschuss (JA) des BLSA besteht aus dem Jugendwart als Vorsitzenden und je einem legitimierten Vertreter aus den Regionalbereichen des BLSA Halle, Magdeburg und Dessau sowie einem gewählten Vertreter der SportlerINNEN.
+Der Jugendausschuss (JA) des BLSA besteht aus dem Jugendwart als Vorsitzenden, dem Vize-Präsident Leistungssport, je einem legitimierten Vertreter aus den Regionalbereichen des BLSA Halle, Magdeburg und Dessau, dem Landestrainer sowie einem gewählten Vertreter der Nachwuchsspielenden.
 
 Der Jugendwart wird von der Vollversammlung der Jugend gewählt.
 
