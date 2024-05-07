@@ -532,7 +532,7 @@ Die Protestgebühr ist innerhalb der Protestfrist auf das Konto des BLSA zu übe
 
 Über Proteste entscheidet der Spielausschuss.
 
-## VI. Schlussbestimmungen
+## E. Schlussbestimmungen
 
 ### § 84 Inkrafttreten
 
