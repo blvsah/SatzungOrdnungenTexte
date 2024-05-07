@@ -81,6 +81,8 @@ dem das Turnier stattfindet. Der Stichtag zum Wechsel der Altersklasse liegt als
 
 (5) Alle Spielberechtigungsangelegenheiten werden innerhalb des BLSA nur zwischen den Vereinen und dem BLSA geregelt. Für die Richtigkeit der Angaben in den Anträgen und die Einzahlung der Ausstellungsgebühren sind die Vereine verantwortlich. Eine aufgrund falscher Angaben ausgesprochene Spielberechtigung ist ungültig und gilt als nicht erteilt.
 
+(6) Gilt es personenbezogene Daten einer Spielberechtigung abzuändern (Name durch Heirat, Falschschreibungen etc.) sind diese Änderungen dem BLSA per E-Mail mitzuteilen. Gilt es ein Geburtsdatum zu korrigieren, muss ein Nachweis mitgesendet werden. Dies kann ein Foto von einem Personalausweis, Führerschein, Geburtsurkunde, oder Krankenkassenkarte sein, auf dem Name und Geburtsdatum eindeutig erkennbar ist. Weitere Daten auf dem Dokument sollten geschwärzt sein.
+
 ### § 8 Spielberechtigung
 
 (1) Eine Spielberechtigung ist auf Antrag eines Vereines mit sofortiger Wirkung für eine Person zu erteilen, die
