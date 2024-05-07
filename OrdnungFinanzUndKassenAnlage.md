@@ -48,7 +48,7 @@ Ordnungs- und Säumnisgebühren werden bei Nichteinhaltung der folgend aufgefüh
 ||| Euro |
 |---:|---|---:|
 | 1. | Nicht rechtzeitige Meldung des Detailergebnisses/Informationen im online Ergebnisdienst (pro Begegnung) | 10,00
-| 2. | Versäumte Rückgabe der Turnierdatei am letzten Turniertag an den Verband | 10,00
+| 2. | Versäumte Veröffentlichung von Turnierergebnissen spätestens am letzten Turniertag | 10,00
 | 3. | Rückzug einer Mannschaft nach dem 01.05. | 50,00
 | 4. | Verspätete Anmeldung einer Mannschaft (nach dem 01.05.) | 20,00
 | 5. | Meldung zum Turnier nach Meldeschluss (pro Person) | 10,00
