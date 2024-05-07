@@ -111,7 +111,7 @@ Ausrichter von überregionalen DBV Turnieren im Verbandsgebiet des BLSA müssen 
 
 ## IX. Überregionale Wettkämpfe im Interesse des BLSA
 
-**A.** Schüler/Jugend (zentrale Organisation und Kostenübernahme durch den BLSA)
+**A.** Schüler/Jugend (zentrale Organisation und Kostenübernahme durch den BLSA für Landeskader)
 
 **1.** Übernahme von Fahrtkosten
 
@@ -128,6 +128,8 @@ Ausrichter von überregionalen DBV Turnieren im Verbandsgebiet des BLSA müssen 
 | a. | Unterkunft pro Tag und Person | entsprechend den Aufwendungen |
 | b. | Startgelder und Umlage für Physiotherapie | entsprechend den Aufwendungen |
 | c. | Ballkosten | entsprechend den Aufwendungen |
+
+Ziffer b. gilt bei Norddeutschen Meisterschaften ebenfalls für die Plätze 1-3 der Landesmeisterschaft wenn Quoten zur Verfügung stehen.
 
 **3.** Zuschuss für Fahrt- und Übernachtungskosten bei überregionalen Mannschaftsmeisterschaften der Schüler/Jugend als Festbetrag
 
