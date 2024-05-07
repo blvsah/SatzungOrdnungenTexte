@@ -1,6 +1,6 @@
 # Spielordnung
 
-**Stand: 06. Mai 2023**
+**Stand: 03. Mai 2024**
 
 ## A. Allgemeines
 

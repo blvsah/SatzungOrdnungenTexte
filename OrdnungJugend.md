@@ -1,6 +1,6 @@
 # Jugendordnung
 
-**Stand: 31. Januar 2004**
+**Stand: 03. Mai 2024**
 
 ### § 1 Name und Mitgliedschaft
 

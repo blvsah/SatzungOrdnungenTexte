@@ -1,6 +1,6 @@
 # Finanz- und Kassenordnung Anlage (Finanzsätze)
 
-**Stand: 1. Januar 2024**
+**Stand: 3. Mai 2024**
 
 ## I. Erstattungen für das Präsidium
 
