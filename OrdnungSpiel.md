@@ -117,7 +117,7 @@ e) von anderen, auch ausländischen, Landesverbänden zum BLSA wechseln und vom 
 
 (2) Die Wartezeit kann bei Umschreibung der Spielberechtigung wegen Umzugs innerhalb der letzten zwölf Monate außerhalb der kommunalen Grenzen auf 14 Tage verkürzt werden.
 
-(3) Die Wartezeit entfällt, wenn der Antrag nach Absatz 1 im Monat Juli eines jeden Jahres eingeht.
+(3) Die Wartezeit entfällt, wenn der Antrag nach Absatz 1 in den Monaten Juni bis August eines jeden Jahres eingeht.
 
 (4) Während der Wartezeit darf der Verbandsangehörige an keinem Mannschaftswettkampf oder Landespokalspiel, wohl aber an Einzelturnieren oder -meisterschaften, teilnehmen. Lässt ein Verein einen mit einer Wartezeit belegten Spieler gleichwohl starten, so gilt die Mannschaft, in der der Spieler aufgestellt wurde, als nicht angetreten.
 
