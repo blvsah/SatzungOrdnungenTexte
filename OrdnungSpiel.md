@@ -335,6 +335,10 @@ In der Rangliste sind mindestens vier Herren und zwei Damen zu melden. Die Spiel
 
 (3) Die übrigen Spieler der Rangliste werden als "Nichtstammspieler" bezeichnet.
 
+(4) Ein Spieler kann nur in einer Mannschaft, an der der Verein beteiligt ist, als Stammspieler gemeldet werden.
+
+(5) Spielen zwei oder mehr Mannschaften, an der der Verein beteiligt ist, in der gleichen Liga, dürfen Stammspieler nicht zwischen diesen Mannschaften wechseln.
+
 ### § 45 Festspielen
 
 Spieler einer unteren Mannschaft eines Vereins können in jeder höheren Mannschaft ihres Vereins eingesetzt werden. Werden Spieler mehr als zweimal je Spielsaison in höheren Mannschaften eingesetzt, so haben sie automatisch die Spielberechtigung für die unteren Mannschaften verloren. Dies gilt unabhängig davon, wie viele Mannschaftswettkämpfe an einem Tag ausgetragen werden.
