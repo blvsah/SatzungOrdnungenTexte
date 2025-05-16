@@ -62,6 +62,8 @@ o) Senioren O70: oberhalb 70 Jahre,
 
 p) Senioren O75: oberhalb 75 Jahre.
 
+q) Senioren O80: oberhalb 80 Jahre.
+
 (2) Zur Einteilung muss die in Abs. 1 genannte Bedingung für das gesamte Kalenderjahr erfüllt werden in
 dem das Turnier stattfindet. Der Stichtag zum Wechsel der Altersklasse liegt also am 01.01. eines jeden Jahres.
 
