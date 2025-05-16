@@ -1,6 +1,6 @@
 # Satzung
 
-**Stand: 15. Oktober 2021**
+**Stand: 16. Mai 2025**
 
 ## I. Allgemeine Bestimmungen
 
