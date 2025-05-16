@@ -341,7 +341,11 @@ In der Rangliste sind mindestens vier Herren und zwei Damen zu melden. Die Spiel
 
 ### § 45 Festspielen
 
-Spieler einer unteren Mannschaft eines Vereins können in jeder höheren Mannschaft ihres Vereins eingesetzt werden. Werden Spieler mehr als zweimal je Spielsaison in höheren Mannschaften eingesetzt, so haben sie automatisch die Spielberechtigung für die unteren Mannschaften verloren. Dies gilt unabhängig davon, wie viele Mannschaftswettkämpfe an einem Tag ausgetragen werden.
+(1) Stammspieler spielen sich beim dritten Einsatz in einer höheren Mannschaft fest und dürfen in dieser Spielsaison nur noch in der Mannschaft in der er zuletzt eingesetzt wurde spielen.
+
+(2) Nichtstammspieler spielen sich beim dritten Einsatz der Spielsaison in der zuletzt eingesetzten Mannschaft fest.
+
+(3) Absatz 1 und 2 gelten unabhängig davon, wie viele Mannschaftswettkämpfe an einem Tag ausgetragen werden.
 
 ### § 46 Genehmigte Rangliste
 
