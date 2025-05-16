@@ -70,7 +70,7 @@ c) durch Ausschluss
 
 d) automatisch, wenn ein Verein in der Bestandserhebung vom Landessportbund Sachsen-Anhalt keine Meldung oder 0 Mitglieder ausweist. Maßgebend ist die Bestandserhebung zum Abschluss eines jeden Jahres.
 
-Der Austritt eines Vereins aus dem BLSA muss drei Monate vor Ablauf des Geschäftsjahres durch Einschreiben der BLSA-Geschäftsstelle mitgeteilt werden.
+Der Austritt eines Vereins aus dem BLSA muss drei Monate vor Ablauf des Geschäftsjahres in Schriftform der BLSA-Geschäftsstelle mitgeteilt werden.
 
 Die Aufkündigung der Mitgliedschaft kann nur dann ausgesprochen werden, wenn auf einer vorhergehenden Jahreshauptversammlung des betreffenden Vereins der Austritt aus dem BLSA mit der für Satzungsänderungen vorgesehenen Mehrheit beschlossen ist.
 
