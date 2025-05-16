@@ -36,8 +36,8 @@ Ausgaben erfolgen unter Einhaltung des Sparsamkeitsprinzips.
 ||| Euro |
 |---:|---|---:|
 | A. | Aufnahmegebühr je Verein (einmalig) | 25,00 |
-| B. | DBV-Anteil je Vereinsmitglied pro Jahr (Jahresgrundbeitrag) | 2,50 |
-| C. | BLSA-Anteil je Vereinsmitglied pro Jahr (Aktivsportler, erfasst über Spielerliste) | 5,00 |
+| B. | je Vereinsmitglied pro Jahr (ermittelt über LSB-Statistik) | 10,00 |
+| C. | je Aktivsportler pro Jahr (ermittelt über Passliste) | 5,00 |
 
 ## III. Ordnungs- und Säumnisgebühren
 
