@@ -74,8 +74,7 @@ Bei Überschreitung der festgesetzten Einzahlungsfrist der 3. Mahnung erfolgt ei
 ||| Euro |
 |---:|---|---:|
 | A. | Personenneuerfassung/-reaktivierung | 3,00 |
-| B. | Spielerbestätigung| 0,50 |
-| C. | Umschreibung | 5,00 |
+| B. | Umschreibung | 5,00 |
 
 ## V. Mannschaftsnenngelder pro Spielsaison
 
