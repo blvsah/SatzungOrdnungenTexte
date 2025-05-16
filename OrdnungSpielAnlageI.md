@@ -37,6 +37,8 @@ Personen an. Einsprüche sind erst nach dem Turnier zu bewerten.
 
 (3) Lassen es die Hallenkapazitäten zu, kann bei einem RLT auch ein weiteres Startfeld der Klasse eröffnet werden mit der Kategorie einer Ebene tiefer. Bei C-Turnieren wird also ein zweites Feld mit der Kategorie D eröffnet. Bei D-Turnieren ein weiteres Feld der Kategorie E. Dies kann auch bereits mit der Ausschreibung bekannt gemacht werden.
 
+(4) Ist eine Spielklasse nicht spielbar, besteht für die Meldenden kein Anspruch auf die Platzierung in dieser Klasse.
+
 ### § 6 Ranking
 
 (1) Bei Nachwuchsturnieren gilt das DBV-Ranking U19, bei Erwachsenen Turnieren (U22, O19, O35+) das DBV-Ranking O19.
