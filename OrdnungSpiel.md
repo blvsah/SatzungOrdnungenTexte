@@ -1,6 +1,6 @@
 # Spielordnung
 
-**Stand: 16. Mai 2025**
+**Stand: 25. April 2026**
 
 ## A. Allgemeines
 

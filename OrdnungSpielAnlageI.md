@@ -1,6 +1,6 @@
 # Spielordnung Anlage I (Turnierbestimmungen für Individualturniere)
 
-**Stand: 16. Mai 2025**
+**Stand: 25. April 2026**
 
 Im Badminton-Landesverband Sachsen-Anhalt (BLSA) werden Ranglistenturniere (RLT) und Meisterschaftsturniere (MST) in verschiedenen Altersklassen und Ebenen (Landes- und Regionsebene) durchgeführt.
 

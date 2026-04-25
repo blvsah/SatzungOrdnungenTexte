@@ -1,6 +1,6 @@
 # Finanz- und Kassenordnung
 
-**Stand: 6. Mai 2023**
+**Stand: 25. April 2026**
 
 ## A. Allgemeines
 
