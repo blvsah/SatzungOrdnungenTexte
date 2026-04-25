@@ -104,9 +104,11 @@ Ausrichter von überregionalen DBV Turnieren im Verbandsgebiet des BLSA müssen 
 
 **A.** Der BLSA stellt den Ausrichtern eine Gebühr von 1,00 € pro Teilnehmer und Disziplin in Rechnung.
 
-## VIII. Abrechnung von offiziellen Wettkämpfen des BLSA
+## VIII. Abrechnung von Wettkämpfen im BLSA
 
-**A.** Der BLSA stellt den Ausrichtern eine Gebühr von 30% des Meldegeldes in Rechnung. Das Meldegeld wird aufgrund aller Meldungen errechnet.
+**A.** Der BLSA stellt den Ausrichtern von offiziellen Wettkämpfen eine Gebühr von 30% des Meldegeldes in Rechnung. Das Meldegeld wird aufgrund aller Meldungen errechnet.
+
+**B.** Der BLSA stellt Ausrichtern von privaten Turnieren mit Ranking-Wertung eine Gebühr von 2,00 € pro Teilnehmenden und Disziplin in den gewerteten Konkurrenzen in Rechnung.
 
 ## IX. Überregionale Wettkämpfe im Interesse des BLSA
 
