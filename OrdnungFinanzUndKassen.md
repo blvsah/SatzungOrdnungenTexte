@@ -110,11 +110,9 @@ c) Schulden- und Vermögensübersicht,
 
 (3) Bei nicht termingerechter Einzahlung von Mitgliedsbeitragsforderungen oder Zahlungsausständen ist der BLSA berechtigt, Mahngebühren gemäß Anlage der Finanz- und Kassenordnung zu erheben. Bei Überschreitung der festgesetzten Einzahlungsfrist der 3. Mahnung wird das Mitglied mit sofortiger Wirkung für den Spielbetrieb des BLSA bis zur Zahlung aller das laufende Verfahren betreffenden Forderungen gesperrt. Werden diese Forderungen bis zum 31.12. des jeweiligen Jahres nicht beglichen, wird der Ausschluss des Vereins aus dem BLSA zum Verbandstag beantragt.
 
-(4) Die Höhe der Mitgliedsbeiträge wird durch die Geschäftsstelle nach Vorliegen der Bestandsmeldungen der Mitglieder berechnet. Die Mitgliedsbeiträge setzen sich zusammen aus einem BLSA- und einem DBV-Anteil.
+(4) Die Höhe der Mitgliedsbeiträge wird durch die Geschäftsstelle nach Vorliegen der Bestandsmeldungen der Mitglieder berechnet. Die Mitgliedsbeiträge setzen sich zusammen aus einem Anteil der Vereinsmitglieder aus der Bestandsmeldung beim LSB (März Rechnung) und einem Anteil der Aktiven auf der Passliste (Oktober Rechnung).
 
-(5) Die Höhe des BLSA-Anteils richtet sich nach der Bestandsmeldung des Mitglieds und ist in der Anlage der Finanz- und Kassenordnung festgelegt. Eine Änderung dieser Beitragshöhe ist nur dem Verbandstag möglich.
-
-(6) Die Höhe des DBV-Anteils errechnet sich aus der entsprechenden Kostenumlage der dem BLSA in Rechnung gestellten Beiträge an DBV und DOSB sowie weiteren umlagefähigen Kosten gemäß Anlage der Finanz- und Kassenordnung.
+(5) Eine Änderung dieser Beitragshöhen ist nur dem Verbandstag möglich.
 
 ### § 12 Aufwandsentschädigungen
 
