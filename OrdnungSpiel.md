@@ -369,9 +369,6 @@ Der Mannschaftswettkampf besteht aus folgenden acht Spielen: drei Herreneinzel, 
 
 (1) Bei einem Mannschaftswettkampf dürfen bis zu acht Herren und vier Damen in der Mannschaftsaufstellung aufgeführt werden.
 
-(2) Nur wenn weniger als fünf Herren und drei Damen in der Mannschaftsaufstellung aufgeführt sind, können
-Ersatzspieler zum Einsatz kommen.
-
 ### § 51 Nicht spielberechtigte Spieler
 
 In der genehmigten Rangliste nicht aufgeführte oder nicht spielberechtigte Spieler dürfen nicht eingesetzt werden. Geschieht dies doch, gilt die betreffende Mannschaft als nicht angetreten.
