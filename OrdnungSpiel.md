@@ -367,7 +367,7 @@ Der Mannschaftswettkampf besteht aus folgenden acht Spielen: drei Herreneinzel, 
 
 ### § 50 Anzahl der mitwirkenden Spieler
 
-(1) Bei einem Mannschaftswettkampf dürfen bis zu fünf Herren und drei Damen in der Mannschaftsaufstellung aufgeführt werden. Sie müssen am ersten Spieltag der jeweiligen Halbserie die Spielberechtigung für den betreffenden Verein haben.
+(1) Bei einem Mannschaftswettkampf dürfen bis zu acht Herren und vier Damen in der Mannschaftsaufstellung aufgeführt werden.
 
 (2) Nur wenn weniger als fünf Herren und drei Damen in der Mannschaftsaufstellung aufgeführt sind, können
 Ersatzspieler zum Einsatz kommen.
