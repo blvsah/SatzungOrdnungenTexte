@@ -329,7 +329,7 @@ In der Rangliste sind mindestens vier Herren und zwei Damen zu melden. Die Spiel
 
 ### § 44 Stammspieler, Nichtstammspieler
 
-(1) In der Rangliste ist kenntlich zu machen, welche Spieler der Verein als "Stammspieler" für die jeweilige Mannschaft betrachtet. Dies müssen mindestens vier Herren und zwei Damen in der Reihenfolge ihrer Spielstärke sein.
+(1) In der Rangliste ist kenntlich zu machen, welche Spieler der Verein als "Stammspieler" für die jeweilige Mannschaft betrachtet. Dies müssen mindestens vier Herren und zwei Damen sein. Maximal dürfen es fünf Herren und drei Damen sein.
 
 (2) Als Stammspieler kenntlich gemachte Spieler dürfen während der laufenden Saison in keiner unteren Mannschaft des Vereins eingesetzt werden. Sie dürfen auch nicht als "Ersatzspieler" in der Mannschaft eingesetzt werden, in der sie Stammspieler sind.
 
