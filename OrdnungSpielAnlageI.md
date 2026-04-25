@@ -45,6 +45,14 @@ Personen an. Einsprüche sind erst nach dem Turnier zu bewerten.
 
 (2) Die Turnierergebnisse werden in diesen Rankings gewertet. Der DBV hat die Möglichkeit einzelne Spielende oder auch ganze Turniere aus der Wertung zu nehmen. Aus der Nichtwertung ergeben sich keinerlei Rechtsansprüche gegenüber dem BLSA und dem DBV.
 
+(3) Ausrichter von privaten Turnieren, können Ranking-Wertung beantragen. Dies ist formlos beim Sport bzw. Jugendwart zu beantragen. Kein Ausrichter kann Anspruch auf Wertung erheben. Zusätzlich sind folgende Punkte einzuhalten:
+
+a) der Ausrichter muss bereits aktiver Ausrichter von Verbandsturnieren sein
+
+b) alle Verbandsturniere müssen einen Ausrichter haben
+
+c) Abgabe an den Verband nach Finanz- und Kassenordnung Anlage VIII B.
+
 ### § 7 Startfeldzusammensetzung
 
 (1) Bei RLT sind pro Startfeld **mindestens** 4 Startende aus anderen Bundesländern zuzulassen. Die MST sind auf Startende aus Sachsen-Anhalt begrenzt.
