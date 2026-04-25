@@ -341,7 +341,7 @@ In der Rangliste sind mindestens vier Herren und zwei Damen zu melden. Die Spiel
 
 ### § 45 Festspielen
 
-(1) Stammspieler spielen sich beim dritten Einsatz in einer höheren Mannschaft fest und dürfen in dieser Spielsaison nur noch in der Mannschaft in der er zuletzt eingesetzt wurde spielen.
+(1) Stammspieler spielen sich beim dritten Einsatz in einer höheren Mannschaft fest und dürfen in dieser Halbserie nur noch in der Mannschaft in der er zuletzt eingesetzt wurde spielen.
 
 (2) Nichtstammspieler spielen sich beim dritten Einsatz der Spielsaison in der zuletzt eingesetzten Mannschaft fest.
 
