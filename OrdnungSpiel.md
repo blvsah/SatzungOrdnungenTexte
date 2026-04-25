@@ -311,7 +311,7 @@ Bei den Spielen soll der Heimverein einen vereinsfremden Wettkampfleiter einsetz
 
 ### § 42 Ranglistenmeldung
 
-(1) Bis zum 1. August eines jeden Jahres haben die Vereine dem Sportwart eine Rangliste einzureichen. Die Meldung muss Namen, Vornamen, Geburtsdatum und die Spielberechtigungsnummer eines jeden Spielers enthalten. Jugendliche und Staatenlose sind zu kennzeichnen; bei Ausländern ist die Nationalität anzugeben.
+(1) Bis zum 1. August eines jeden Jahres haben die Vereine dem Sportwart eine Rangliste einzureichen. Die Meldung muss Namen, Vornamen, Jahrgang und die Spielberechtigungsnummer eines jeden Spielers enthalten.
 
 (2) Nach Ablauf der Frist aus Absatz 1, dürfen Spielende in die Meldung eingefügt werden. Sie müssen entsprechend Ihrer Spielstärke in die bestehende Rangliste integriert werden. Es gilt die Wartezeit aus § 10 SpO zu beachten. Bis spätestens sieben Tage vor Beginn der Rückrunde kann die Rangliste für die Rückrunde neu gemeldet werden.
 
