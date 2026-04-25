@@ -98,6 +98,12 @@ Bei Überschreitung der festgesetzten Einzahlungsfrist der 3. Mahnung erfolgt ei
 | 2. | Landesebene Schüler/Jugend | 6,00 |
 | 3. | Regionalebene Schüler/Jugend | 6,00 |
 
+**B.** Weitere Turniere
+
+||| Euro |
+|---:|---|---:|
+| 1. | Doppel Turnier O40 (pro Doppel) | 15,00 |
+
 ## VII. Ungenutzt
 
 ## VIII. Abrechnung von Wettkämpfen im BLSA
