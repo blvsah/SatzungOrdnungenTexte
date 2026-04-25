@@ -83,10 +83,9 @@ Bei Überschreitung der festgesetzten Einzahlungsfrist der 3. Mahnung erfolgt ei
 | A. | Landesliga Senioren | 50,00 |
 | B. | Landesklasse Senioren | 40,00 |
 | C. | Bezirksliga Senioren | 30,00 |
-| D. | Landesliga Senioren O40 | 15,00 |
-| E. | Freizeit-/Breitensportligen Senioren | 10,00 |
-| F. | Jugend (alle Spielklassen) | 15,00 |
-| G. | Schüler (alle Spielklassen) | 10,00 |
+| D. | Freizeit-/Breitensportligen Senioren | 10,00 |
+| E. | Jugend (alle Spielklassen) | 15,00 |
+| F. | Schüler (alle Spielklassen) | 10,00 |
 
 ## VI. Meldegelder
 
