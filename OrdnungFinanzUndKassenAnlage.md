@@ -1,6 +1,6 @@
 # Finanz- und Kassenordnung Anlage (Finanzsätze)
 
-**Stand: 25. April 2026**
+**Stand: 25. Juni 2026**
 
 ## I. Erstattungen für das Präsidium
 
@@ -146,6 +146,9 @@ Ziffer b. gilt bei Norddeutschen Meisterschaften ebenfalls für die Plätze 1-3 
 || Euro |
 |---|---:|
 | Eigenbeteiligung | 100,00 |
+| Eigenbeteiligung ohne Übernahme von Fahrtkosten | 80,00 |
+| Eigenbeteiligung ohne Übernahme von Übernachtungskosten | 60,00 |
+| Eigenbeteiligung ohne Übernahme von Fahrt- und Übernachtungskosten | 40,00 |
 
 **B.** Senioren/Altersklassen
 
